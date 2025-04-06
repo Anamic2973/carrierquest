@@ -1,0 +1,1001 @@
+Field,Profession,Job Description,Personality,Type of Interest,Associated Skills,Education Requirement,Average Salary,Future Growth Potential
+Finance,Data Scientist,Analyzes complex data to provide insights.,"ISTJ,ESTJ",Social,"Python, SQL, Machine Learning, Statistics",Master's Degree,"$30,000 - $50,000",Medium
+Engineering,Machine Learning Engineer,Develops AI models for automated tasks.,"INTJ,ESFP",Enterprising,"Deep Learning, TensorFlow, Python, AI Algorithms",Doctorate,"$70,000 - $100,000",Medium
+Manufacturing,Cybersecurity Analyst,Protects systems from cyber threats.,"ISFJ,ENTJ",Conventional,"Network Security, Ethical Hacking, Risk Management",High School Diploma,"$150,000+",Low
+Arts,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENTJ,INTP",Investigative,"Neurosurgery, Patient Care, Critical Thinking",Master's Degree,"$70,000 - $100,000",Medium
+Telecommunications,Forensic Scientist,Analyzes evidence for criminal investigations.,"INTJ,ENTJ",Artistic,"Criminal Investigation, DNA Analysis, Chemistry",Bachelor's Degree,"$150,000+",Low
+Science,Game Developer,Creates and develops video games.,"ISTP,INFP",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Healthcare,Meteorologist,Studies weather patterns and predicts forecasts.,"ENFJ,ISTP",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",High
+Hospitality,Architect,Designs buildings and urban structures.,"INTP,ESTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Medium
+Social Work,Astronomer,Studies celestial objects and the universe.,"ISFP,INTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Environment,Investment Banker,Provides financial advice and investment strategies.,"ISFP,ISFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Medium
+Engineering,Marine Biologist,Studies ocean life and marine ecosystems.,"ENFP,ESFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",High
+Business,UX Researcher,Improves user experience based on data insights.,"ISTJ,ESTJ",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Low
+Engineering,Robotics Engineer,Designs and builds robotic systems.,"ESTJ,ISFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",High
+Security,Sports Psychologist,Enhances athletes' mental performance.,"ISFJ,ISTJ",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",High
+Agriculture,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INTP,ESFJ",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Low
+Technology,Biotech Researcher,Develops biotechnological solutions for medicine.,"INTP,ENFP",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Low
+Construction,Music Composer,Creates and arranges musical pieces.,"INTJ,ENFJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Environment,Space Scientist,Studies outer space and planetary science.,"ENTP,ISTP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Low
+Transportation,Renewable Energy Engineer,Designs sustainable energy solutions.,"ESTJ,ISFJ",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Low
+Law,Epidemiologist,Studies disease outbreaks and health trends.,"ESFJ,INTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Medium
+Environment,Data Scientist,Analyzes complex data to provide insights.,"INTJ,ISTJ",Conventional,"Python, SQL, Machine Learning, Statistics",Doctorate,"$150,000+",Low
+Engineering,Machine Learning Engineer,Develops AI models for automated tasks.,"ENFP,ESTJ",Conventional,"Deep Learning, TensorFlow, Python, AI Algorithms",Doctorate,"$150,000+",High
+Research,Cybersecurity Analyst,Protects systems from cyber threats.,"ESFP,ISTJ",Artistic,"Network Security, Ethical Hacking, Risk Management",High School Diploma,"$100,000 - $150,000",Low
+Media,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ISFJ,INFP","Conventional, Investigative","Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$30,000 - $50,000",Low
+Business,Forensic Scientist,Analyzes evidence for criminal investigations.,"ESTJ,ESFJ",Social,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$100,000 - $150,000",High
+Aviation,Game Developer,Creates and develops video games.,"INTP,INFJ",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",High
+Finance,Meteorologist,Studies weather patterns and predicts forecasts.,"ENTJ,INFJ",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",High
+Agriculture,Architect,Designs buildings and urban structures.,"ISTP,ESFP",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Law,Astronomer,Studies celestial objects and the universe.,"ENFJ,ESTP",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Retail,Investment Banker,Provides financial advice and investment strategies.,"ISFP,ESTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Medium
+Security,Marine Biologist,Studies ocean life and marine ecosystems.,"ESTP,ESFJ",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Medium
+Media,UX Researcher,Improves user experience based on data insights.,"ISFJ,ENTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Transportation,Robotics Engineer,Designs and builds robotic systems.,"ISTP,INFP",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Low
+Education,Sports Psychologist,Enhances athletes' mental performance.,"ISFP,ENTJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Medium
+Media,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ISFP,ENTJ",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Medium
+Hospitality,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENFJ,ENFP",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Arts,Music Composer,Creates and arranges musical pieces.,"ISFP,ENTP",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Low
+Politics,Space Scientist,Studies outer space and planetary science.,"INFJ,INFP",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Low
+Transportation,Renewable Energy Engineer,Designs sustainable energy solutions.,"ESFJ,ISTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",High
+Research,Epidemiologist,Studies disease outbreaks and health trends.,"ISFJ,INTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Low
+Finance,Data Scientist,Analyzes complex data to provide insights.,"ESTJ,ISFP",Realistic,"Python, SQL, Machine Learning, Statistics",High School Diploma,"$30,000 - $50,000",Medium
+Healthcare,Machine Learning Engineer,Develops AI models for automated tasks.,"ISTP,ESFJ",Social,"Deep Learning, TensorFlow, Python, AI Algorithms",High School Diploma,"$150,000+",Medium
+Engineering,Cybersecurity Analyst,Protects systems from cyber threats.,"INTJ,ENTP","Realistic, Investigative","Network Security, Ethical Hacking, Risk Management",High School Diploma,"$70,000 - $100,000",High
+Media,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ISFP,ENTP",Conventional,"Neurosurgery, Patient Care, Critical Thinking",Bachelor's Degree,"$150,000+",High
+Aviation,Forensic Scientist,Analyzes evidence for criminal investigations.,"ESFJ,ISTP",Enterprising,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$150,000+",Medium
+Research,Game Developer,Creates and develops video games.,"ISFJ,ESFJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",High
+Hospitality,Meteorologist,Studies weather patterns and predicts forecasts.,"ESTP,ISFP",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Low
+Entertainment,Architect,Designs buildings and urban structures.,"ENFJ,ISFJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Environment,Astronomer,Studies celestial objects and the universe.,"ISFJ,ENFP",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",High
+Healthcare,Investment Banker,Provides financial advice and investment strategies.,"ENTJ,INTP",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Entertainment,Marine Biologist,Studies ocean life and marine ecosystems.,"ESFP,ENFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Low
+Media,UX Researcher,Improves user experience based on data insights.,"ESTP,ESTJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",High
+Education,Robotics Engineer,Designs and builds robotic systems.,"ISFP,ISFP",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",High
+Media,Sports Psychologist,Enhances athletes' mental performance.,"ISTP,ENTJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Engineering,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INFP,INFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",High
+Retail,Biotech Researcher,Develops biotechnological solutions for medicine.,"INTJ,ENTP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Science,Music Composer,Creates and arranges musical pieces.,"INTJ,INTJ",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Social Work,Space Scientist,Studies outer space and planetary science.,"ESFJ,ENFJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Low
+Finance,Renewable Energy Engineer,Designs sustainable energy solutions.,"INTP,INTP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",High
+Retail,Epidemiologist,Studies disease outbreaks and health trends.,"ISFJ,INFP",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Low
+Agriculture,Data Scientist,Analyzes complex data to provide insights.,"ENTP,ESTP",Enterprising,"Python, SQL, Machine Learning, Statistics",Master's Degree,"$30,000 - $50,000",High
+Technology,Machine Learning Engineer,Develops AI models for automated tasks.,"INFP,ISTJ","Conventional, Investigative","Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$70,000 - $100,000",High
+Business,Cybersecurity Analyst,Protects systems from cyber threats.,"ISFJ,INFJ",Social,"Network Security, Ethical Hacking, Risk Management",Master's Degree,"$100,000 - $150,000",Low
+Healthcare,Neurosurgeon,Performs surgeries related to brain and nervous system.,"INTP,INFJ",Social,"Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$50,000 - $70,000",High
+Sports,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISTJ,ISFJ",Conventional,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$150,000+",Medium
+Healthcare,Game Developer,Creates and develops video games.,"ISTP,ISTJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Research,Meteorologist,Studies weather patterns and predicts forecasts.,"INTP,ENTP",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Hospitality,Architect,Designs buildings and urban structures.,"ENTJ,ESTP",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Manufacturing,Astronomer,Studies celestial objects and the universe.,"INFP,INTJ",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Medium
+Science,Investment Banker,Provides financial advice and investment strategies.,"ENTJ,INTJ",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",High
+Engineering,Marine Biologist,Studies ocean life and marine ecosystems.,"INFP,INTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",High
+Politics,UX Researcher,Improves user experience based on data insights.,"ENFP,ESFP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Hospitality,Robotics Engineer,Designs and builds robotic systems.,"INTP,INTJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Business,Sports Psychologist,Enhances athletes' mental performance.,"ESFJ,ISTJ",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Low
+Law,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INTP,INFP",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Low
+Finance,Biotech Researcher,Develops biotechnological solutions for medicine.,"ISTP,ISFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Medium
+Education,Music Composer,Creates and arranges musical pieces.,"INFP,ISTP",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Low
+Hospitality,Space Scientist,Studies outer space and planetary science.,"ISTJ,ESFP",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Low
+Business,Renewable Energy Engineer,Designs sustainable energy solutions.,"ESTJ,ISTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Medium
+Agriculture,Epidemiologist,Studies disease outbreaks and health trends.,"INTP,INFJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Entertainment,Data Scientist,Analyzes complex data to provide insights.,"ISFP,ESTJ",Conventional,"Python, SQL, Machine Learning, Statistics",Bachelor's Degree,"$30,000 - $50,000",Medium
+Social Work,Machine Learning Engineer,Develops AI models for automated tasks.,"ISTJ,ESFP",Conventional,"Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$70,000 - $100,000",High
+Hospitality,Cybersecurity Analyst,Protects systems from cyber threats.,"INFP,ESFP",Investigative,"Network Security, Ethical Hacking, Risk Management",Bachelor's Degree,"$150,000+",Medium
+Education,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ISTP,INFJ",Enterprising,"Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$50,000 - $70,000",High
+Law,Forensic Scientist,Analyzes evidence for criminal investigations.,"INFP,ESTP",Artistic,"Criminal Investigation, DNA Analysis, Chemistry",Bachelor's Degree,"$30,000 - $50,000",Low
+Aviation,Game Developer,Creates and develops video games.,"ESFJ,ESTP",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Law,Meteorologist,Studies weather patterns and predicts forecasts.,"ISFJ,ENTJ",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Hospitality,Architect,Designs buildings and urban structures.,"ENTJ,ENTJ",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Low
+Social Work,Astronomer,Studies celestial objects and the universe.,"INTP,ESTP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",High
+Environment,Investment Banker,Provides financial advice and investment strategies.,"ESFJ,ISTP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Low
+Transportation,Marine Biologist,Studies ocean life and marine ecosystems.,"ISFJ,INFP",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Medium
+Military,UX Researcher,Improves user experience based on data insights.,"ENFP,ISTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Medium
+Arts,Robotics Engineer,Designs and builds robotic systems.,"ESFP,ENTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Low
+Education,Sports Psychologist,Enhances athletes' mental performance.,"ENFP,ISTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Medium
+Telecommunications,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INFP,ESFP",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Finance,Biotech Researcher,Develops biotechnological solutions for medicine.,"INFP,ESTP",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Low
+Construction,Music Composer,Creates and arranges musical pieces.,"ISFJ,INFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Low
+Construction,Space Scientist,Studies outer space and planetary science.,"ENTJ,ENTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",High
+Technology,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISTJ,ENTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Low
+Politics,Epidemiologist,Studies disease outbreaks and health trends.,"ESTP,ENFP",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Medium
+Education,Data Scientist,Analyzes complex data to provide insights.,"ENFP,ISTP","Realistic, Investigative","Python, SQL, Machine Learning, Statistics",Master's Degree,"$150,000+",High
+Aviation,Machine Learning Engineer,Develops AI models for automated tasks.,"ISFP,ISFP",Conventional,"Deep Learning, TensorFlow, Python, AI Algorithms",High School Diploma,"$150,000+",Medium
+Media,Cybersecurity Analyst,Protects systems from cyber threats.,"INTP,ISTP",Social,"Network Security, Ethical Hacking, Risk Management",Bachelor's Degree,"$50,000 - $70,000",High
+Agriculture,Neurosurgeon,Performs surgeries related to brain and nervous system.,"INFP,INTJ",Realistic,"Neurosurgery, Patient Care, Critical Thinking",Doctorate,"$30,000 - $50,000",Low
+Telecommunications,Forensic Scientist,Analyzes evidence for criminal investigations.,"ENTJ,ESFP","Conventional, Investigative","Criminal Investigation, DNA Analysis, Chemistry",Master's Degree,"$30,000 - $50,000",High
+Healthcare,Game Developer,Creates and develops video games.,"ISFJ,INFJ",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Low
+Telecommunications,Meteorologist,Studies weather patterns and predicts forecasts.,"INFJ,ISTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Environment,Architect,Designs buildings and urban structures.,"ISFP,ENTJ",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Security,Astronomer,Studies celestial objects and the universe.,"ESFP,ISFP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Low
+Environment,Investment Banker,Provides financial advice and investment strategies.,"ENTJ,ENFJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Medium
+Politics,Marine Biologist,Studies ocean life and marine ecosystems.,"ENFP,ISFP",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Medium
+Entertainment,UX Researcher,Improves user experience based on data insights.,"ESTP,ENFP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Media,Robotics Engineer,Designs and builds robotic systems.,"ISTJ,INTJ",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Low
+Engineering,Sports Psychologist,Enhances athletes' mental performance.,"ENTP,INFJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Business,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INFP,ESFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",High
+Education,Biotech Researcher,Develops biotechnological solutions for medicine.,"ISFJ,ISTP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Medium
+Business,Music Composer,Creates and arranges musical pieces.,"ISTJ,ESTP",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Medium
+Aviation,Space Scientist,Studies outer space and planetary science.,"INFP,ESFJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Low
+Entertainment,Renewable Energy Engineer,Designs sustainable energy solutions.,"ESFP,ENTP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Media,Epidemiologist,Studies disease outbreaks and health trends.,"INTP,INTJ",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Low
+Science,Data Scientist,Analyzes complex data to provide insights.,"INTP,ENTP",Investigative,"Python, SQL, Machine Learning, Statistics",Doctorate,"$30,000 - $50,000",Low
+Hospitality,Machine Learning Engineer,Develops AI models for automated tasks.,"ENTP,ESTP",Investigative,"Deep Learning, TensorFlow, Python, AI Algorithms",Bachelor's Degree,"$70,000 - $100,000",Low
+Construction,Cybersecurity Analyst,Protects systems from cyber threats.,"ESFP,ENTJ","Realistic, Investigative","Network Security, Ethical Hacking, Risk Management",Master's Degree,"$70,000 - $100,000",High
+Agriculture,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESFJ,ENFP",Investigative,"Neurosurgery, Patient Care, Critical Thinking",Doctorate,"$50,000 - $70,000",Medium
+Agriculture,Forensic Scientist,Analyzes evidence for criminal investigations.,"INFP,INFP","Conventional, Investigative","Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$70,000 - $100,000",High
+Telecommunications,Game Developer,Creates and develops video games.,"ISFP,ESTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",High
+Education,Meteorologist,Studies weather patterns and predicts forecasts.,"ENTP,INTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",High
+Telecommunications,Architect,Designs buildings and urban structures.,"INTJ,INFP",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",High
+Business,Astronomer,Studies celestial objects and the universe.,"INFP,ISTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Low
+Law,Investment Banker,Provides financial advice and investment strategies.,"INFJ,ESFP",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Medium
+Politics,Marine Biologist,Studies ocean life and marine ecosystems.,"ENTP,ESTP",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Science,UX Researcher,Improves user experience based on data insights.,"ISTJ,ESFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Transportation,Robotics Engineer,Designs and builds robotic systems.,"INTP,INTJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Security,Sports Psychologist,Enhances athletes' mental performance.,"ESTP,ESTP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Business,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ENFJ,ISTP",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Law,Biotech Researcher,Develops biotechnological solutions for medicine.,"ESTJ,ISFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Medium
+Law,Music Composer,Creates and arranges musical pieces.,"ISTP,ENFJ",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Low
+Sports,Space Scientist,Studies outer space and planetary science.,"ISFJ,ISTJ",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Science,Renewable Energy Engineer,Designs sustainable energy solutions.,"ESTP,INTP",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Medium
+Agriculture,Epidemiologist,Studies disease outbreaks and health trends.,"INFP,INTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",High
+Media,Data Scientist,Analyzes complex data to provide insights.,"ENTP,ENTJ","Conventional, Investigative","Python, SQL, Machine Learning, Statistics",Doctorate,"$30,000 - $50,000",Medium
+Agriculture,Machine Learning Engineer,Develops AI models for automated tasks.,"INTP,INFJ",Social,"Deep Learning, TensorFlow, Python, AI Algorithms",Doctorate,"$100,000 - $150,000",Medium
+Sports,Cybersecurity Analyst,Protects systems from cyber threats.,"INFJ,ESTJ",Conventional,"Network Security, Ethical Hacking, Risk Management",High School Diploma,"$70,000 - $100,000",Medium
+Social Work,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENFP,INTJ",Investigative,"Neurosurgery, Patient Care, Critical Thinking",Bachelor's Degree,"$100,000 - $150,000",High
+Military,Forensic Scientist,Analyzes evidence for criminal investigations.,"ENFP,ESTJ",Artistic,"Criminal Investigation, DNA Analysis, Chemistry",Master's Degree,"$150,000+",Low
+Telecommunications,Game Developer,Creates and develops video games.,"ISFJ,ENTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Construction,Meteorologist,Studies weather patterns and predicts forecasts.,"ISFP,ESTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Medium
+Research,Architect,Designs buildings and urban structures.,"ESTP,ISFJ",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Entertainment,Astronomer,Studies celestial objects and the universe.,"ENTP,ESFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",High
+Research,Investment Banker,Provides financial advice and investment strategies.,"ISFJ,ISTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",High
+Telecommunications,Marine Biologist,Studies ocean life and marine ecosystems.,"ENFJ,ISFJ",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",High
+Healthcare,UX Researcher,Improves user experience based on data insights.,"ESTP,ISTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Research,Robotics Engineer,Designs and builds robotic systems.,"INTP,ISTJ",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Medium
+Media,Sports Psychologist,Enhances athletes' mental performance.,"ISTJ,ISFP",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",High
+Entertainment,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ISFP,ENFP",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Aviation,Biotech Researcher,Develops biotechnological solutions for medicine.,"ESTJ,ESTP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Medium
+Retail,Music Composer,Creates and arranges musical pieces.,"ISTJ,INTJ",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Transportation,Space Scientist,Studies outer space and planetary science.,"INTP,ENTP",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Technology,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENTP,INFP",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",High
+Security,Epidemiologist,Studies disease outbreaks and health trends.,"ISFP,ISTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",High
+Security,Data Scientist,Analyzes complex data to provide insights.,"ESTP,ENFP",Realistic,"Python, SQL, Machine Learning, Statistics",Associate Degree,"$30,000 - $50,000",Low
+Law,Machine Learning Engineer,Develops AI models for automated tasks.,"ESFP,INTJ",Realistic,"Deep Learning, TensorFlow, Python, AI Algorithms",Bachelor's Degree,"$150,000+",High
+Military,Cybersecurity Analyst,Protects systems from cyber threats.,"ISTJ,ISTJ",Social,"Network Security, Ethical Hacking, Risk Management",Doctorate,"$50,000 - $70,000",Medium
+Sports,Neurosurgeon,Performs surgeries related to brain and nervous system.,"INFP,ISFJ",Social,"Neurosurgery, Patient Care, Critical Thinking",Bachelor's Degree,"$50,000 - $70,000",Medium
+Construction,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISFJ,INTP","Conventional, Investigative","Criminal Investigation, DNA Analysis, Chemistry",Bachelor's Degree,"$70,000 - $100,000",Low
+Military,Game Developer,Creates and develops video games.,"ENTJ,ESFJ",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Low
+Business,Meteorologist,Studies weather patterns and predicts forecasts.,"INTP,ESTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Low
+Law,Architect,Designs buildings and urban structures.,"INTJ,ESFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",High
+Environment,Astronomer,Studies celestial objects and the universe.,"ESTJ,ISTP",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Social Work,Investment Banker,Provides financial advice and investment strategies.,"INTP,ISFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Engineering,Marine Biologist,Studies ocean life and marine ecosystems.,"ISTJ,INTJ",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Retail,UX Researcher,Improves user experience based on data insights.,"ESTP,ENFP",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Construction,Robotics Engineer,Designs and builds robotic systems.,"INTP,ISTP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Transportation,Sports Psychologist,Enhances athletes' mental performance.,"ISFP,INTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Low
+Environment,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ENTJ,ESFP",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Low
+Social Work,Biotech Researcher,Develops biotechnological solutions for medicine.,"ESTJ,ESFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Low
+Finance,Music Composer,Creates and arranges musical pieces.,"INTP,ESFJ",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",High
+Retail,Space Scientist,Studies outer space and planetary science.,"ESFJ,ENFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Low
+Sports,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISTP,ISTJ",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Low
+Telecommunications,Epidemiologist,Studies disease outbreaks and health trends.,"ENFJ,ISTP",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",Medium
+Research,Data Scientist,Analyzes complex data to provide insights.,"ENTJ,ISFP","Realistic, Investigative","Python, SQL, Machine Learning, Statistics",Master's Degree,"$150,000+",High
+Business,Machine Learning Engineer,Develops AI models for automated tasks.,"ESTP,ESTP",Enterprising,"Deep Learning, TensorFlow, Python, AI Algorithms",High School Diploma,"$30,000 - $50,000",Medium
+Security,Cybersecurity Analyst,Protects systems from cyber threats.,"ENFP,INTP",Investigative,"Network Security, Ethical Hacking, Risk Management",Bachelor's Degree,"$70,000 - $100,000",Medium
+Agriculture,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENFP,ISFP",Artistic,"Neurosurgery, Patient Care, Critical Thinking",Doctorate,"$100,000 - $150,000",Low
+Telecommunications,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISTP,ESTJ","Conventional, Investigative","Criminal Investigation, DNA Analysis, Chemistry",Associate Degree,"$150,000+",Medium
+Engineering,Game Developer,Creates and develops video games.,"ENTP,INFP",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",High
+Technology,Meteorologist,Studies weather patterns and predicts forecasts.,"INFJ,ISTJ",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Military,Architect,Designs buildings and urban structures.,"ESFP,ENFJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Politics,Astronomer,Studies celestial objects and the universe.,"ENFJ,ISFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Medium
+Research,Investment Banker,Provides financial advice and investment strategies.,"ESFP,ESFJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Business,Marine Biologist,Studies ocean life and marine ecosystems.,"INTP,ISFJ",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Medium
+Research,UX Researcher,Improves user experience based on data insights.,"ESFJ,ISFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Construction,Robotics Engineer,Designs and builds robotic systems.,"ESTJ,ENFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Low
+Environment,Sports Psychologist,Enhances athletes' mental performance.,"INFP,INFP",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Medium
+Media,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ESFP,INFP",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Medium
+Aviation,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENTJ,INFP",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",High
+Law,Music Composer,Creates and arranges musical pieces.,"ENTP,ESTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Medium
+Science,Space Scientist,Studies outer space and planetary science.,"ENFP,ISFJ",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Medium
+Hospitality,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISTP,ISFP",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Transportation,Epidemiologist,Studies disease outbreaks and health trends.,"INTJ,INFP",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",High
+Social Work,Data Scientist,Analyzes complex data to provide insights.,"INFJ,ESFP","Conventional, Investigative","Python, SQL, Machine Learning, Statistics",Master's Degree,"$70,000 - $100,000",High
+Manufacturing,Machine Learning Engineer,Develops AI models for automated tasks.,"ISTJ,ENTP",Enterprising,"Deep Learning, TensorFlow, Python, AI Algorithms",Doctorate,"$70,000 - $100,000",High
+Aviation,Cybersecurity Analyst,Protects systems from cyber threats.,"INFJ,ISFP",Artistic,"Network Security, Ethical Hacking, Risk Management",High School Diploma,"$50,000 - $70,000",Low
+Transportation,Neurosurgeon,Performs surgeries related to brain and nervous system.,"INTP,INFP",Social,"Neurosurgery, Patient Care, Critical Thinking",Doctorate,"$100,000 - $150,000",High
+Law,Forensic Scientist,Analyzes evidence for criminal investigations.,"INTP,ESTJ",Enterprising,"Criminal Investigation, DNA Analysis, Chemistry",Associate Degree,"$30,000 - $50,000",High
+Construction,Game Developer,Creates and develops video games.,"INFP,ENFP",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",High
+Construction,Meteorologist,Studies weather patterns and predicts forecasts.,"INTP,ISTP",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Low
+Finance,Architect,Designs buildings and urban structures.,"ISTP,ISTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Medium
+Business,Astronomer,Studies celestial objects and the universe.,"ENTP,ISFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Medium
+Entertainment,Investment Banker,Provides financial advice and investment strategies.,"ESFP,ENTJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Business,Marine Biologist,Studies ocean life and marine ecosystems.,"INTJ,ISFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",Medium
+Arts,UX Researcher,Improves user experience based on data insights.,"INTP,ENFP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Low
+Agriculture,Robotics Engineer,Designs and builds robotic systems.,"ENFP,ENTJ",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Security,Sports Psychologist,Enhances athletes' mental performance.,"ISFJ,INTP",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Medium
+Transportation,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INFP,INTP",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Retail,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENFJ,ESTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Technology,Music Composer,Creates and arranges musical pieces.,"ISTP,ENTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Security,Space Scientist,Studies outer space and planetary science.,"ENFP,INTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Low
+Finance,Renewable Energy Engineer,Designs sustainable energy solutions.,"ESFJ,ISTP",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",High
+Construction,Epidemiologist,Studies disease outbreaks and health trends.,"INFP,ISTJ",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",High
+Politics,Data Scientist,Analyzes complex data to provide insights.,"ENFP,ISTJ","Realistic, Investigative","Python, SQL, Machine Learning, Statistics",Associate Degree,"$100,000 - $150,000",High
+Technology,Machine Learning Engineer,Develops AI models for automated tasks.,"INFJ,ENTP",Artistic,"Deep Learning, TensorFlow, Python, AI Algorithms",High School Diploma,"$150,000+",Medium
+Business,Cybersecurity Analyst,Protects systems from cyber threats.,"ESTJ,INFJ",Artistic,"Network Security, Ethical Hacking, Risk Management",High School Diploma,"$70,000 - $100,000",Medium
+Manufacturing,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENTP,ESFJ",Enterprising,"Neurosurgery, Patient Care, Critical Thinking",Bachelor's Degree,"$50,000 - $70,000",Medium
+Social Work,Forensic Scientist,Analyzes evidence for criminal investigations.,"ENFJ,INFP",Enterprising,"Criminal Investigation, DNA Analysis, Chemistry",Doctorate,"$150,000+",High
+Manufacturing,Game Developer,Creates and develops video games.,"ENTP,ISTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Education,Meteorologist,Studies weather patterns and predicts forecasts.,"ISFP,ESTP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Aviation,Architect,Designs buildings and urban structures.,"ESTP,INTJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Low
+Media,Astronomer,Studies celestial objects and the universe.,"ESTJ,ESFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",High
+Arts,Investment Banker,Provides financial advice and investment strategies.,"INFP,ISTP",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Medium
+Arts,Marine Biologist,Studies ocean life and marine ecosystems.,"ISTP,INFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Healthcare,UX Researcher,Improves user experience based on data insights.,"ESTP,ENFP",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",Low
+Research,Robotics Engineer,Designs and builds robotic systems.,"ENFJ,ESTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Technology,Sports Psychologist,Enhances athletes' mental performance.,"INTP,ISFJ",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Medium
+Finance,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ENTP,ESFJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Technology,Biotech Researcher,Develops biotechnological solutions for medicine.,"ESTP,ESFP",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Business,Music Composer,Creates and arranges musical pieces.,"ESTJ,ISFP",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Medium
+Telecommunications,Space Scientist,Studies outer space and planetary science.,"ENTJ,ISTP",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Medium
+Education,Renewable Energy Engineer,Designs sustainable energy solutions.,"ESFJ,ESTJ",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Science,Epidemiologist,Studies disease outbreaks and health trends.,"INTJ,ENTP",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Hospitality,Data Scientist,Analyzes complex data to provide insights.,"ESTJ,ISTP",Social,"Python, SQL, Machine Learning, Statistics",Associate Degree,"$30,000 - $50,000",Low
+Social Work,Machine Learning Engineer,Develops AI models for automated tasks.,"INFP,INFP",Realistic,"Deep Learning, TensorFlow, Python, AI Algorithms",Bachelor's Degree,"$30,000 - $50,000",Low
+Aviation,Cybersecurity Analyst,Protects systems from cyber threats.,"ISFP,INFJ",Realistic,"Network Security, Ethical Hacking, Risk Management",High School Diploma,"$70,000 - $100,000",Medium
+Arts,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESTP,ESFJ",Realistic,"Neurosurgery, Patient Care, Critical Thinking",Bachelor's Degree,"$30,000 - $50,000",High
+Manufacturing,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISTP,ESFJ",Enterprising,"Criminal Investigation, DNA Analysis, Chemistry",Doctorate,"$30,000 - $50,000",Low
+Business,Game Developer,Creates and develops video games.,"ESFP,ISTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",Medium
+Transportation,Meteorologist,Studies weather patterns and predicts forecasts.,"ENTP,ISTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Medium
+Military,Architect,Designs buildings and urban structures.,"ESFP,INTP",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Construction,Astronomer,Studies celestial objects and the universe.,"ENFJ,INFP",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Medium
+Law,Investment Banker,Provides financial advice and investment strategies.,"ESTP,INTP",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Low
+Research,Marine Biologist,Studies ocean life and marine ecosystems.,"INTP,ISTJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Low
+Engineering,UX Researcher,Improves user experience based on data insights.,"ESTP,ISTJ",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Low
+Arts,Robotics Engineer,Designs and builds robotic systems.,"ISFP,ENFJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Science,Sports Psychologist,Enhances athletes' mental performance.,"INFJ,ISTJ",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Low
+Hospitality,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INFJ,ENTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",High
+Aviation,Biotech Researcher,Develops biotechnological solutions for medicine.,"ESTJ,ENTJ",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Medium
+Telecommunications,Music Composer,Creates and arranges musical pieces.,"ISTP,ESFJ",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Aviation,Space Scientist,Studies outer space and planetary science.,"ENFJ,ENTP",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Medium
+Engineering,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISTJ,ENFP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Healthcare,Epidemiologist,Studies disease outbreaks and health trends.,"INTP,ISTP",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Retail,Data Scientist,Analyzes complex data to provide insights.,"ESTJ,ISTJ",Realistic,"Python, SQL, Machine Learning, Statistics",High School Diploma,"$100,000 - $150,000",Low
+Environment,Machine Learning Engineer,Develops AI models for automated tasks.,"ISTJ,ENFJ",Conventional,"Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$100,000 - $150,000",Low
+Retail,Cybersecurity Analyst,Protects systems from cyber threats.,"INTP,INTP","Realistic, Investigative","Network Security, Ethical Hacking, Risk Management",High School Diploma,"$30,000 - $50,000",Medium
+Education,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENTJ,ISFP",Conventional,"Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$50,000 - $70,000",High
+Military,Forensic Scientist,Analyzes evidence for criminal investigations.,"ESTJ,ESTJ",Investigative,"Criminal Investigation, DNA Analysis, Chemistry",Associate Degree,"$150,000+",High
+Military,Game Developer,Creates and develops video games.,"ESTJ,ENTJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Arts,Meteorologist,Studies weather patterns and predicts forecasts.,"INTJ,INTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",High
+Agriculture,Architect,Designs buildings and urban structures.,"ISTP,ISTJ",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Finance,Astronomer,Studies celestial objects and the universe.,"ISFP,ESFP",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Education,Investment Banker,Provides financial advice and investment strategies.,"ISTP,ENTP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Low
+Business,Marine Biologist,Studies ocean life and marine ecosystems.,"ENFP,INFJ",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",High
+Sports,UX Researcher,Improves user experience based on data insights.,"ESTJ,ENTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Medium
+Security,Robotics Engineer,Designs and builds robotic systems.,"INFP,ESFJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Finance,Sports Psychologist,Enhances athletes' mental performance.,"ESFP,ENFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Military,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ENFJ,INFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Sports,Biotech Researcher,Develops biotechnological solutions for medicine.,"INTP,INFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Low
+Engineering,Music Composer,Creates and arranges musical pieces.,"INTJ,INFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Finance,Space Scientist,Studies outer space and planetary science.,"ESTJ,ESTJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Retail,Renewable Energy Engineer,Designs sustainable energy solutions.,"INFP,ENTJ",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",High
+Finance,Epidemiologist,Studies disease outbreaks and health trends.,"ISFJ,INFJ",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",High
+Retail,Data Scientist,Analyzes complex data to provide insights.,"ENTP,ESFP","Realistic, Investigative","Python, SQL, Machine Learning, Statistics",Doctorate,"$30,000 - $50,000",High
+Healthcare,Machine Learning Engineer,Develops AI models for automated tasks.,"ESTJ,ESTJ",Investigative,"Deep Learning, TensorFlow, Python, AI Algorithms",High School Diploma,"$30,000 - $50,000",Medium
+Hospitality,Cybersecurity Analyst,Protects systems from cyber threats.,"ENFP,ISFJ",Artistic,"Network Security, Ethical Hacking, Risk Management",Bachelor's Degree,"$150,000+",High
+Military,Neurosurgeon,Performs surgeries related to brain and nervous system.,"INFJ,INFJ",Artistic,"Neurosurgery, Patient Care, Critical Thinking",High School Diploma,"$50,000 - $70,000",Medium
+Technology,Forensic Scientist,Analyzes evidence for criminal investigations.,"INTJ,ISTP",Social,"Criminal Investigation, DNA Analysis, Chemistry",Associate Degree,"$150,000+",Low
+Law,Game Developer,Creates and develops video games.,"ISFP,ENFP",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Low
+Finance,Meteorologist,Studies weather patterns and predicts forecasts.,"ISTJ,ESFJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Low
+Engineering,Architect,Designs buildings and urban structures.,"INFJ,ESFJ",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Military,Astronomer,Studies celestial objects and the universe.,"ESFJ,ISFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Medium
+Telecommunications,Investment Banker,Provides financial advice and investment strategies.,"ESTP,ESTP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Sports,Marine Biologist,Studies ocean life and marine ecosystems.,"ISTJ,ENTP",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",High
+Agriculture,UX Researcher,Improves user experience based on data insights.,"ISFP,ENFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Medium
+Research,Robotics Engineer,Designs and builds robotic systems.,"ESTJ,ESFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Business,Sports Psychologist,Enhances athletes' mental performance.,"ENTP,ESFJ",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Low
+Technology,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INFJ,ESTP",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Social Work,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENTJ,ISTP",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Medium
+Research,Music Composer,Creates and arranges musical pieces.,"ISFJ,ENFJ",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Security,Space Scientist,Studies outer space and planetary science.,"ESFP,ENFP",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Low
+Social Work,Renewable Energy Engineer,Designs sustainable energy solutions.,"INFP,ISTJ",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Low
+Technology,Epidemiologist,Studies disease outbreaks and health trends.,"INTP,INFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",High
+Social Work,Data Scientist,Analyzes complex data to provide insights.,"INTJ,ENFJ",Enterprising,"Python, SQL, Machine Learning, Statistics",High School Diploma,"$150,000+",Medium
+Finance,Machine Learning Engineer,Develops AI models for automated tasks.,"ESFJ,ENFP",Conventional,"Deep Learning, TensorFlow, Python, AI Algorithms",High School Diploma,"$50,000 - $70,000",High
+Research,Cybersecurity Analyst,Protects systems from cyber threats.,"ISTP,ESTP",Realistic,"Network Security, Ethical Hacking, Risk Management",Doctorate,"$150,000+",Low
+Law,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENFP,INTJ",Social,"Neurosurgery, Patient Care, Critical Thinking",Master's Degree,"$30,000 - $50,000",Medium
+Manufacturing,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISTP,INFP",Social,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$30,000 - $50,000",Medium
+Hospitality,Game Developer,Creates and develops video games.,"INTP,ISTP",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",High
+Agriculture,Meteorologist,Studies weather patterns and predicts forecasts.,"ISFP,INFP",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Medium
+Politics,Architect,Designs buildings and urban structures.,"ENFJ,ISFJ",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Law,Astronomer,Studies celestial objects and the universe.,"ISFJ,ISTP",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Healthcare,Investment Banker,Provides financial advice and investment strategies.,"ENTP,INTJ",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Low
+Military,Marine Biologist,Studies ocean life and marine ecosystems.,"ISFJ,ISFP",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Low
+Arts,UX Researcher,Improves user experience based on data insights.,"ENFP,ESFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Medium
+Hospitality,Robotics Engineer,Designs and builds robotic systems.,"INTJ,ENFJ",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Law,Sports Psychologist,Enhances athletes' mental performance.,"INTP,INTJ",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",High
+Technology,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INTP,ESTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Construction,Biotech Researcher,Develops biotechnological solutions for medicine.,"INTP,INFJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Low
+Media,Music Composer,Creates and arranges musical pieces.,"ENFJ,ESFJ",Enterprising,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Sports,Space Scientist,Studies outer space and planetary science.,"ESTJ,ENFP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",High
+Law,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENTP,ENFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Low
+Social Work,Epidemiologist,Studies disease outbreaks and health trends.,"ENTJ,ISTJ",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Technology,Data Scientist,Analyzes complex data to provide insights.,"ENFP,ISFP",Investigative,"Python, SQL, Machine Learning, Statistics",Doctorate,"$100,000 - $150,000",Low
+Social Work,Machine Learning Engineer,Develops AI models for automated tasks.,"ISFP,INTJ",Investigative,"Deep Learning, TensorFlow, Python, AI Algorithms",Bachelor's Degree,"$70,000 - $100,000",Low
+Media,Cybersecurity Analyst,Protects systems from cyber threats.,"ISFP,INFJ",Investigative,"Network Security, Ethical Hacking, Risk Management",Master's Degree,"$50,000 - $70,000",Low
+Environment,Neurosurgeon,Performs surgeries related to brain and nervous system.,"INFJ,ENFP",Investigative,"Neurosurgery, Patient Care, Critical Thinking",Master's Degree,"$50,000 - $70,000",Low
+Arts,Forensic Scientist,Analyzes evidence for criminal investigations.,"INFJ,ESFP",Realistic,"Criminal Investigation, DNA Analysis, Chemistry",Associate Degree,"$150,000+",Medium
+Manufacturing,Game Developer,Creates and develops video games.,"ESFP,ESTP",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Business,Meteorologist,Studies weather patterns and predicts forecasts.,"ISTP,ISFP",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",High
+Business,Architect,Designs buildings and urban structures.,"ENTP,INFJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Retail,Astronomer,Studies celestial objects and the universe.,"INTP,ENTP",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Medium
+Social Work,Investment Banker,Provides financial advice and investment strategies.,"INFP,ESFP",Enterprising,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Media,Marine Biologist,Studies ocean life and marine ecosystems.,"INFJ,ISFJ",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",High
+Engineering,UX Researcher,Improves user experience based on data insights.,"ISTJ,ENFP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",High
+Construction,Robotics Engineer,Designs and builds robotic systems.,"ENTJ,ESTP",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Military,Sports Psychologist,Enhances athletes' mental performance.,"INTJ,ISTJ",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Medium
+Social Work,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INTP,INTJ",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Medium
+Science,Biotech Researcher,Develops biotechnological solutions for medicine.,"ESFJ,ESTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Sports,Music Composer,Creates and arranges musical pieces.,"INTJ,ESTP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Research,Space Scientist,Studies outer space and planetary science.,"ENFJ,ISTP",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Low
+Research,Renewable Energy Engineer,Designs sustainable energy solutions.,"ESFJ,INTP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Medium
+Healthcare,Epidemiologist,Studies disease outbreaks and health trends.,"INFJ,ENTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Education,Data Scientist,Analyzes complex data to provide insights.,"ESTP,ISFP",Realistic,"Python, SQL, Machine Learning, Statistics",Associate Degree,"$100,000 - $150,000",High
+Law,Machine Learning Engineer,Develops AI models for automated tasks.,"ESFJ,ESTP",Investigative,"Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$70,000 - $100,000",Medium
+Transportation,Cybersecurity Analyst,Protects systems from cyber threats.,"ENTJ,INFJ",Conventional,"Network Security, Ethical Hacking, Risk Management",Master's Degree,"$70,000 - $100,000",Medium
+Arts,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESFJ,ISFP",Artistic,"Neurosurgery, Patient Care, Critical Thinking",High School Diploma,"$50,000 - $70,000",Medium
+Media,Forensic Scientist,Analyzes evidence for criminal investigations.,"ENTP,ENFJ",Realistic,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$70,000 - $100,000",High
+Media,Game Developer,Creates and develops video games.,"ISFP,INTP",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Low
+Security,Meteorologist,Studies weather patterns and predicts forecasts.,"ENTJ,ESFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Construction,Architect,Designs buildings and urban structures.,"ENFJ,INFJ",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Medium
+Military,Astronomer,Studies celestial objects and the universe.,"ISFP,ISTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Media,Investment Banker,Provides financial advice and investment strategies.,"ISTP,ESFJ",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",High
+Technology,Marine Biologist,Studies ocean life and marine ecosystems.,"ENTP,ESFP",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Low
+Telecommunications,UX Researcher,Improves user experience based on data insights.,"ESFJ,ISFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",High
+Research,Robotics Engineer,Designs and builds robotic systems.,"ENTJ,ESFJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Medium
+Aviation,Sports Psychologist,Enhances athletes' mental performance.,"ISTP,INFJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Research,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ESFP,INFJ",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Medium
+Entertainment,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENTP,INTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Low
+Politics,Music Composer,Creates and arranges musical pieces.,"ISFP,ENTJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Entertainment,Space Scientist,Studies outer space and planetary science.,"ISTJ,ENFP",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Low
+Transportation,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISTJ,ISTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Social Work,Epidemiologist,Studies disease outbreaks and health trends.,"ISTP,ISTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",High
+Aviation,Data Scientist,Analyzes complex data to provide insights.,"ESFP,ESTJ",Conventional,"Python, SQL, Machine Learning, Statistics",Doctorate,"$30,000 - $50,000",Medium
+Manufacturing,Machine Learning Engineer,Develops AI models for automated tasks.,"ENTP,ESFP",Realistic,"Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$70,000 - $100,000",Low
+Manufacturing,Cybersecurity Analyst,Protects systems from cyber threats.,"ESTJ,INFP","Conventional, Investigative","Network Security, Ethical Hacking, Risk Management",Master's Degree,"$30,000 - $50,000",High
+Law,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESFJ,INTJ",Enterprising,"Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$70,000 - $100,000",High
+Science,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISTJ,ENTP","Realistic, Investigative","Criminal Investigation, DNA Analysis, Chemistry",Associate Degree,"$50,000 - $70,000",Medium
+Sports,Game Developer,Creates and develops video games.,"ESFP,ISTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Security,Meteorologist,Studies weather patterns and predicts forecasts.,"ENTP,ENTJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Aviation,Architect,Designs buildings and urban structures.,"ENTJ,INFP",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Medium
+Environment,Astronomer,Studies celestial objects and the universe.,"ISFP,ENFJ",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Medium
+Research,Investment Banker,Provides financial advice and investment strategies.,"INTP,ESFP",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Low
+Finance,Marine Biologist,Studies ocean life and marine ecosystems.,"ISFJ,ESTJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",High
+Business,UX Researcher,Improves user experience based on data insights.,"INTJ,INTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Politics,Robotics Engineer,Designs and builds robotic systems.,"ESFP,ESTP",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Arts,Sports Psychologist,Enhances athletes' mental performance.,"ISTJ,INTJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Construction,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ISTJ,INTJ",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",High
+Media,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENFJ,ENFJ",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Low
+Arts,Music Composer,Creates and arranges musical pieces.,"INFJ,ENFJ",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Finance,Space Scientist,Studies outer space and planetary science.,"ENFJ,ENTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Transportation,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENFP,INFJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",High
+Manufacturing,Epidemiologist,Studies disease outbreaks and health trends.,"ISFP,ISTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Medium
+Security,Data Scientist,Analyzes complex data to provide insights.,"INTJ,ESFP",Realistic,"Python, SQL, Machine Learning, Statistics",Associate Degree,"$50,000 - $70,000",Low
+Security,Machine Learning Engineer,Develops AI models for automated tasks.,"INFJ,INTJ","Realistic, Investigative","Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$150,000+",Medium
+Media,Cybersecurity Analyst,Protects systems from cyber threats.,"INFJ,INFJ",Conventional,"Network Security, Ethical Hacking, Risk Management",Master's Degree,"$70,000 - $100,000",Medium
+Technology,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ISTJ,ESTJ","Realistic, Investigative","Neurosurgery, Patient Care, Critical Thinking",High School Diploma,"$150,000+",High
+Finance,Forensic Scientist,Analyzes evidence for criminal investigations.,"ESFJ,ENTP","Realistic, Investigative","Criminal Investigation, DNA Analysis, Chemistry",Doctorate,"$30,000 - $50,000",High
+Arts,Game Developer,Creates and develops video games.,"INTJ,ISFJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Low
+Manufacturing,Meteorologist,Studies weather patterns and predicts forecasts.,"ISTJ,ESFP",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Low
+Technology,Architect,Designs buildings and urban structures.,"INFP,INFP",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",High
+Security,Astronomer,Studies celestial objects and the universe.,"ISFP,ENTJ",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Transportation,Investment Banker,Provides financial advice and investment strategies.,"ESFP,ENFJ",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Medium
+Arts,Marine Biologist,Studies ocean life and marine ecosystems.,"INTP,INFJ",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Arts,UX Researcher,Improves user experience based on data insights.,"ISFP,ESTJ",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Low
+Arts,Robotics Engineer,Designs and builds robotic systems.,"ENTP,ISFJ",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Low
+Law,Sports Psychologist,Enhances athletes' mental performance.,"ENTP,ENFP",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",High
+Sports,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ESFJ,ESTJ",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Finance,Biotech Researcher,Develops biotechnological solutions for medicine.,"INFJ,ISTJ",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Medium
+Science,Music Composer,Creates and arranges musical pieces.,"INTP,ISFJ",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Low
+Media,Space Scientist,Studies outer space and planetary science.,"ISFP,ESFJ",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",High
+Social Work,Renewable Energy Engineer,Designs sustainable energy solutions.,"INTJ,ENFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Low
+Entertainment,Epidemiologist,Studies disease outbreaks and health trends.,"ENTP,ESTP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",High
+Security,Data Scientist,Analyzes complex data to provide insights.,"ISFJ,ENFP",Investigative,"Python, SQL, Machine Learning, Statistics",Doctorate,"$50,000 - $70,000",Medium
+Entertainment,Machine Learning Engineer,Develops AI models for automated tasks.,"ENFP,ESFJ",Realistic,"Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$70,000 - $100,000",Low
+Aviation,Cybersecurity Analyst,Protects systems from cyber threats.,"INTJ,ESFJ",Social,"Network Security, Ethical Hacking, Risk Management",High School Diploma,"$50,000 - $70,000",High
+Research,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENFJ,ESTJ",Enterprising,"Neurosurgery, Patient Care, Critical Thinking",Doctorate,"$30,000 - $50,000",High
+Education,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISTJ,ESTJ","Conventional, Investigative","Criminal Investigation, DNA Analysis, Chemistry",Master's Degree,"$30,000 - $50,000",Medium
+Transportation,Game Developer,Creates and develops video games.,"ENFJ,ENTJ",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Arts,Meteorologist,Studies weather patterns and predicts forecasts.,"ISFJ,ISTJ",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",High
+Telecommunications,Architect,Designs buildings and urban structures.,"ESTJ,INTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",High
+Security,Astronomer,Studies celestial objects and the universe.,"ISTJ,ESFP",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Sports,Investment Banker,Provides financial advice and investment strategies.,"INTJ,ESFP",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Business,Marine Biologist,Studies ocean life and marine ecosystems.,"ENFP,ESFJ",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",High
+Telecommunications,UX Researcher,Improves user experience based on data insights.,"ESFP,INTP",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Low
+Military,Robotics Engineer,Designs and builds robotic systems.,"INFJ,ESTJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Technology,Sports Psychologist,Enhances athletes' mental performance.,"ENFP,ENFP",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Healthcare,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ESFP,ISTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Media,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENTP,ESTJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Construction,Music Composer,Creates and arranges musical pieces.,"INTP,INTJ",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Low
+Aviation,Space Scientist,Studies outer space and planetary science.,"ESTJ,ENTJ",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Aviation,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISFP,ISTP",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Low
+Construction,Epidemiologist,Studies disease outbreaks and health trends.,"INFJ,ISFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Agriculture,Data Scientist,Analyzes complex data to provide insights.,"ESTJ,ENTJ",Realistic,"Python, SQL, Machine Learning, Statistics",Master's Degree,"$30,000 - $50,000",Low
+Agriculture,Machine Learning Engineer,Develops AI models for automated tasks.,"ENFP,INTJ",Realistic,"Deep Learning, TensorFlow, Python, AI Algorithms",Associate Degree,"$70,000 - $100,000",Low
+Finance,Cybersecurity Analyst,Protects systems from cyber threats.,"ISTP,INTJ",Realistic,"Network Security, Ethical Hacking, Risk Management",Master's Degree,"$150,000+",Medium
+Retail,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENTJ,ESFP","Realistic, Investigative","Neurosurgery, Patient Care, Critical Thinking",Master's Degree,"$150,000+",Low
+Science,Forensic Scientist,Analyzes evidence for criminal investigations.,"ENTJ,ISTJ",Investigative,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$30,000 - $50,000",Medium
+Technology,Game Developer,Creates and develops video games.,"ISFP,ISFJ",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Medium
+Hospitality,Meteorologist,Studies weather patterns and predicts forecasts.,"ISFJ,ISFP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Low
+Education,Architect,Designs buildings and urban structures.,"ESFP,ISTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Medium
+Healthcare,Astronomer,Studies celestial objects and the universe.,"ISFJ,ESTJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Manufacturing,Investment Banker,Provides financial advice and investment strategies.,"ESTJ,ENFJ",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",High
+Science,Marine Biologist,Studies ocean life and marine ecosystems.,"ESFJ,INFJ",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",High
+Engineering,UX Researcher,Improves user experience based on data insights.,"INFJ,ISTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Technology,Robotics Engineer,Designs and builds robotic systems.,"ENTP,ISTP",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Technology,Sports Psychologist,Enhances athletes' mental performance.,"INTP,ISFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Engineering,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ENTJ,ENFP",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Media,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENTP,ENFP",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",High
+Law,Music Composer,Creates and arranges musical pieces.,"ESTP,ENTJ",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Low
+Construction,Space Scientist,Studies outer space and planetary science.,"INFJ,INTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",Low
+Entertainment,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISFJ,INTP",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Medium
+Social Work,Epidemiologist,Studies disease outbreaks and health trends.,"ENFP,ESTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",High
+Research,Data Scientist,Analyzes complex data to provide insights.,"ESTJ,INTP","Conventional, Investigative","Python, SQL, Machine Learning, Statistics",High School Diploma,"$100,000 - $150,000",Low
+Finance,Machine Learning Engineer,Develops AI models for automated tasks.,"ENTJ,ENTP",Conventional,"Deep Learning, TensorFlow, Python, AI Algorithms",Associate Degree,"$30,000 - $50,000",High
+Politics,Cybersecurity Analyst,Protects systems from cyber threats.,"INTP,INFP","Realistic, Investigative","Network Security, Ethical Hacking, Risk Management",High School Diploma,"$50,000 - $70,000",Medium
+Education,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ISFJ,ISTP",Realistic,"Neurosurgery, Patient Care, Critical Thinking",Doctorate,"$30,000 - $50,000",Medium
+Healthcare,Forensic Scientist,Analyzes evidence for criminal investigations.,"INFP,ESTP",Investigative,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$100,000 - $150,000",High
+Agriculture,Game Developer,Creates and develops video games.,"ENTJ,ENFJ",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Medium
+Agriculture,Meteorologist,Studies weather patterns and predicts forecasts.,"INFJ,ENTP",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",High
+Retail,Architect,Designs buildings and urban structures.,"ENTJ,INFP",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",Low
+Security,Astronomer,Studies celestial objects and the universe.,"INTP,ISTJ",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",Low
+Arts,Investment Banker,Provides financial advice and investment strategies.,"ESTP,INFP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",High
+Media,Marine Biologist,Studies ocean life and marine ecosystems.,"ESTJ,ESFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Entertainment,UX Researcher,Improves user experience based on data insights.,"ISFP,ISTP",Enterprising,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Low
+Construction,Robotics Engineer,Designs and builds robotic systems.,"ESFP,ENFJ",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Arts,Sports Psychologist,Enhances athletes' mental performance.,"ENFJ,ESFJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Law,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INTJ,INFP",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",High
+Technology,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENTP,ENTP",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Low
+Entertainment,Music Composer,Creates and arranges musical pieces.,"INTP,ISFP",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Low
+Science,Space Scientist,Studies outer space and planetary science.,"INTJ,ISTJ",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Medium
+Military,Renewable Energy Engineer,Designs sustainable energy solutions.,"INTP,ENFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",High
+Engineering,Epidemiologist,Studies disease outbreaks and health trends.,"ISFP,INTP",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Politics,Data Scientist,Analyzes complex data to provide insights.,"ESTJ,INTP","Realistic, Investigative","Python, SQL, Machine Learning, Statistics",Associate Degree,"$150,000+",High
+Transportation,Machine Learning Engineer,Develops AI models for automated tasks.,"ENFP,ENFP",Social,"Deep Learning, TensorFlow, Python, AI Algorithms",High School Diploma,"$50,000 - $70,000",Medium
+Manufacturing,Cybersecurity Analyst,Protects systems from cyber threats.,"ESFP,INTP",Investigative,"Network Security, Ethical Hacking, Risk Management",Master's Degree,"$70,000 - $100,000",Low
+Arts,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENFP,INTP",Conventional,"Neurosurgery, Patient Care, Critical Thinking",Master's Degree,"$70,000 - $100,000",Low
+Healthcare,Forensic Scientist,Analyzes evidence for criminal investigations.,"INTP,INFJ","Realistic, Investigative","Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$150,000+",High
+Manufacturing,Game Developer,Creates and develops video games.,"ENFJ,ESFP",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Low
+Research,Meteorologist,Studies weather patterns and predicts forecasts.,"ISFJ,ENTP",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",High
+Technology,Architect,Designs buildings and urban structures.,"INFJ,ISFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Medium
+Transportation,Astronomer,Studies celestial objects and the universe.,"INFP,ISFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Low
+Agriculture,Investment Banker,Provides financial advice and investment strategies.,"ESTJ,ISTJ",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Medium
+Hospitality,Marine Biologist,Studies ocean life and marine ecosystems.,"ISFJ,ISFJ",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Medium
+Military,UX Researcher,Improves user experience based on data insights.,"ENTP,ENFP",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Science,Robotics Engineer,Designs and builds robotic systems.,"ESFP,ISTP",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Low
+Agriculture,Sports Psychologist,Enhances athletes' mental performance.,"INTJ,ESFP",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",High
+Telecommunications,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ESTP,INTP",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Medium
+Science,Biotech Researcher,Develops biotechnological solutions for medicine.,"INFJ,ENTJ",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Low
+Manufacturing,Music Composer,Creates and arranges musical pieces.,"ESFJ,INTJ",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Education,Space Scientist,Studies outer space and planetary science.,"INFJ,INTJ",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Aviation,Renewable Energy Engineer,Designs sustainable energy solutions.,"ESTP,INFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Low
+Telecommunications,Epidemiologist,Studies disease outbreaks and health trends.,"ENTP,ENFJ",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Science,Data Scientist,Analyzes complex data to provide insights.,"INFP,ENTJ",Conventional,"Python, SQL, Machine Learning, Statistics",Bachelor's Degree,"$150,000+",Low
+Science,Machine Learning Engineer,Develops AI models for automated tasks.,"INTP,ESTJ","Realistic, Investigative","Deep Learning, TensorFlow, Python, AI Algorithms",Bachelor's Degree,"$50,000 - $70,000",Low
+Manufacturing,Cybersecurity Analyst,Protects systems from cyber threats.,"ENTJ,ISTP",Enterprising,"Network Security, Ethical Hacking, Risk Management",Master's Degree,"$50,000 - $70,000",Medium
+Military,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ISTJ,ISFJ",Enterprising,"Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$30,000 - $50,000",Low
+Engineering,Forensic Scientist,Analyzes evidence for criminal investigations.,"INTJ,ESFP",Conventional,"Criminal Investigation, DNA Analysis, Chemistry",Bachelor's Degree,"$100,000 - $150,000",Medium
+Education,Game Developer,Creates and develops video games.,"ISFP,ISFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",High
+Aviation,Meteorologist,Studies weather patterns and predicts forecasts.,"ISFJ,INFP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Entertainment,Architect,Designs buildings and urban structures.,"ESFJ,ESTP",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Low
+Hospitality,Astronomer,Studies celestial objects and the universe.,"ISTP,ESFP",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Low
+Transportation,Investment Banker,Provides financial advice and investment strategies.,"ENFP,ESTP",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",High
+Finance,Marine Biologist,Studies ocean life and marine ecosystems.,"INTJ,INFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",High
+Arts,UX Researcher,Improves user experience based on data insights.,"ENTJ,ESTJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Low
+Hospitality,Robotics Engineer,Designs and builds robotic systems.,"ESFJ,ISFP",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Medium
+Environment,Sports Psychologist,Enhances athletes' mental performance.,"ESTP,INFJ",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",High
+Telecommunications,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INFJ,ISTP",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Low
+Arts,Biotech Researcher,Develops biotechnological solutions for medicine.,"ISTJ,INFJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",High
+Entertainment,Music Composer,Creates and arranges musical pieces.,"INFJ,ESTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Low
+Manufacturing,Space Scientist,Studies outer space and planetary science.,"INTP,ESFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Manufacturing,Renewable Energy Engineer,Designs sustainable energy solutions.,"ESFP,INFP",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Business,Epidemiologist,Studies disease outbreaks and health trends.,"ENFP,INFJ",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Low
+Aviation,Data Scientist,Analyzes complex data to provide insights.,"ENTP,INFJ","Realistic, Investigative","Python, SQL, Machine Learning, Statistics",Doctorate,"$100,000 - $150,000",Low
+Media,Machine Learning Engineer,Develops AI models for automated tasks.,"INTP,ENFJ",Social,"Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$50,000 - $70,000",High
+Construction,Cybersecurity Analyst,Protects systems from cyber threats.,"INFJ,INFP",Enterprising,"Network Security, Ethical Hacking, Risk Management",Master's Degree,"$70,000 - $100,000",Medium
+Research,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESFJ,ISTP",Social,"Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$30,000 - $50,000",Low
+Media,Forensic Scientist,Analyzes evidence for criminal investigations.,"ESTP,ENTJ",Investigative,"Criminal Investigation, DNA Analysis, Chemistry",Master's Degree,"$100,000 - $150,000",Low
+Engineering,Game Developer,Creates and develops video games.,"ENTJ,ISTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",High
+Telecommunications,Meteorologist,Studies weather patterns and predicts forecasts.,"ISTJ,ISTJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Research,Architect,Designs buildings and urban structures.,"ISTJ,ENFP",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",High
+Entertainment,Astronomer,Studies celestial objects and the universe.,"INFP,ESFP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",High
+Media,Investment Banker,Provides financial advice and investment strategies.,"ESFJ,INFP",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Medium
+Education,Marine Biologist,Studies ocean life and marine ecosystems.,"ESFP,INFP",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Low
+Law,UX Researcher,Improves user experience based on data insights.,"INFJ,ENFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Security,Robotics Engineer,Designs and builds robotic systems.,"ESFJ,ESTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Low
+Science,Sports Psychologist,Enhances athletes' mental performance.,"ENFP,ESTJ",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",High
+Security,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ISFP,INTJ",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Low
+Technology,Biotech Researcher,Develops biotechnological solutions for medicine.,"ISTJ,ENTP",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",High
+Politics,Music Composer,Creates and arranges musical pieces.,"ISTJ,ISFP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Low
+Technology,Space Scientist,Studies outer space and planetary science.,"ESFP,INFP",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",High
+Manufacturing,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENTP,ENFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Medium
+Arts,Epidemiologist,Studies disease outbreaks and health trends.,"ISFJ,ISTJ",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Medium
+Retail,Data Scientist,Analyzes complex data to provide insights.,"ENTP,ESFJ",Social,"Python, SQL, Machine Learning, Statistics",Doctorate,"$30,000 - $50,000",Low
+Agriculture,Machine Learning Engineer,Develops AI models for automated tasks.,"ENFP,ESFJ","Conventional, Investigative","Deep Learning, TensorFlow, Python, AI Algorithms",Bachelor's Degree,"$100,000 - $150,000",Medium
+Research,Cybersecurity Analyst,Protects systems from cyber threats.,"INFJ,INTJ",Investigative,"Network Security, Ethical Hacking, Risk Management",Master's Degree,"$100,000 - $150,000",Medium
+Telecommunications,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENTP,ESTP",Enterprising,"Neurosurgery, Patient Care, Critical Thinking",Master's Degree,"$100,000 - $150,000",Low
+Security,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISTJ,ISFJ",Artistic,"Criminal Investigation, DNA Analysis, Chemistry",Doctorate,"$150,000+",High
+Retail,Game Developer,Creates and develops video games.,"ISFJ,ENFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",High
+Transportation,Meteorologist,Studies weather patterns and predicts forecasts.,"ENFP,ISTP",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Medium
+Military,Architect,Designs buildings and urban structures.,"ESFJ,ISTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",High
+Aviation,Astronomer,Studies celestial objects and the universe.,"ENFP,ESFJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Environment,Investment Banker,Provides financial advice and investment strategies.,"ESFP,ESTP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Politics,Marine Biologist,Studies ocean life and marine ecosystems.,"INTP,ESFP",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Low
+Military,UX Researcher,Improves user experience based on data insights.,"ENTP,ENFJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Low
+Manufacturing,Robotics Engineer,Designs and builds robotic systems.,"ESFJ,ISFJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Low
+Business,Sports Psychologist,Enhances athletes' mental performance.,"ESFJ,INTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",High
+Arts,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ENFP,ISFJ",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Medium
+Military,Biotech Researcher,Develops biotechnological solutions for medicine.,"ESFJ,ENTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Transportation,Music Composer,Creates and arranges musical pieces.,"ISTJ,ESFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",High
+Law,Space Scientist,Studies outer space and planetary science.,"ENTP,INFJ",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Low
+Telecommunications,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENTJ,INTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Low
+Politics,Epidemiologist,Studies disease outbreaks and health trends.,"ISFJ,ISTP",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Entertainment,Data Scientist,Analyzes complex data to provide insights.,"ISTP,ESTJ",Enterprising,"Python, SQL, Machine Learning, Statistics",Master's Degree,"$30,000 - $50,000",High
+Agriculture,Machine Learning Engineer,Develops AI models for automated tasks.,"ESFJ,ESFJ",Artistic,"Deep Learning, TensorFlow, Python, AI Algorithms",Bachelor's Degree,"$150,000+",Medium
+Hospitality,Cybersecurity Analyst,Protects systems from cyber threats.,"ENTJ,ENTP",Artistic,"Network Security, Ethical Hacking, Risk Management",High School Diploma,"$100,000 - $150,000",Low
+Business,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENTJ,ENTP",Artistic,"Neurosurgery, Patient Care, Critical Thinking",Master's Degree,"$70,000 - $100,000",High
+Agriculture,Forensic Scientist,Analyzes evidence for criminal investigations.,"INFP,ENTP",Social,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$100,000 - $150,000",Low
+Law,Game Developer,Creates and develops video games.,"ISTP,INTP",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",High
+Business,Meteorologist,Studies weather patterns and predicts forecasts.,"ENFP,INTP",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",High
+Research,Architect,Designs buildings and urban structures.,"ENFP,INFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Low
+Security,Astronomer,Studies celestial objects and the universe.,"ISFP,ESFJ",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Medium
+Hospitality,Investment Banker,Provides financial advice and investment strategies.,"ISFJ,INTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Medium
+Agriculture,Marine Biologist,Studies ocean life and marine ecosystems.,"ENFJ,INFJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Low
+Social Work,UX Researcher,Improves user experience based on data insights.,"ENFJ,INTP",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Low
+Security,Robotics Engineer,Designs and builds robotic systems.,"ENFJ,INFP",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",High
+Agriculture,Sports Psychologist,Enhances athletes' mental performance.,"ENFP,ESFJ",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Medium
+Finance,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ISFJ,ESFP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Finance,Biotech Researcher,Develops biotechnological solutions for medicine.,"ESFJ,INTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Low
+Entertainment,Music Composer,Creates and arranges musical pieces.,"ESFJ,ENFJ",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Medium
+Social Work,Space Scientist,Studies outer space and planetary science.,"ESTJ,ISFJ",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Medium
+Transportation,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENFJ,ISTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",High
+Finance,Epidemiologist,Studies disease outbreaks and health trends.,"ENFJ,ENTJ",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Agriculture,Data Scientist,Analyzes complex data to provide insights.,"ENTP,ESFP",Artistic,"Python, SQL, Machine Learning, Statistics",Associate Degree,"$70,000 - $100,000",Medium
+Politics,Machine Learning Engineer,Develops AI models for automated tasks.,"ENTP,INTJ",Conventional,"Deep Learning, TensorFlow, Python, AI Algorithms",Bachelor's Degree,"$150,000+",High
+Science,Cybersecurity Analyst,Protects systems from cyber threats.,"ISFP,ESTJ",Artistic,"Network Security, Ethical Hacking, Risk Management",Master's Degree,"$50,000 - $70,000",Medium
+Engineering,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESFP,INTP",Artistic,"Neurosurgery, Patient Care, Critical Thinking",Doctorate,"$30,000 - $50,000",Low
+Finance,Forensic Scientist,Analyzes evidence for criminal investigations.,"INTP,ENTJ",Social,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$30,000 - $50,000",High
+Construction,Game Developer,Creates and develops video games.,"ISTJ,ESTP",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Agriculture,Meteorologist,Studies weather patterns and predicts forecasts.,"ENTJ,ISTP",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",High
+Science,Architect,Designs buildings and urban structures.,"ISTJ,ESTP",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Medium
+Education,Astronomer,Studies celestial objects and the universe.,"ENTJ,ESTP",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Medium
+Hospitality,Investment Banker,Provides financial advice and investment strategies.,"ESFJ,ESFP",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Medium
+Business,Marine Biologist,Studies ocean life and marine ecosystems.,"INTJ,ENTP",Enterprising,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Medium
+Entertainment,UX Researcher,Improves user experience based on data insights.,"ENFP,ESFP",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",High
+Environment,Robotics Engineer,Designs and builds robotic systems.,"ESFJ,ESFP",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Low
+Aviation,Sports Psychologist,Enhances athletes' mental performance.,"INTP,INFJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",High
+Law,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ISFJ,ENFP",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",High
+Research,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENTP,ESTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Low
+Healthcare,Music Composer,Creates and arranges musical pieces.,"ISTP,ENTJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Transportation,Space Scientist,Studies outer space and planetary science.,"ESFP,ISFJ",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Security,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENTP,ISFP",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Low
+Environment,Epidemiologist,Studies disease outbreaks and health trends.,"INFP,INFJ",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Medium
+Science,Data Scientist,Analyzes complex data to provide insights.,"ISTP,INTJ",Enterprising,"Python, SQL, Machine Learning, Statistics",Master's Degree,"$50,000 - $70,000",High
+Military,Machine Learning Engineer,Develops AI models for automated tasks.,"INFP,ISTJ","Realistic, Investigative","Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$100,000 - $150,000",Low
+Agriculture,Cybersecurity Analyst,Protects systems from cyber threats.,"ESTJ,ESFJ",Social,"Network Security, Ethical Hacking, Risk Management",High School Diploma,"$30,000 - $50,000",High
+Politics,Neurosurgeon,Performs surgeries related to brain and nervous system.,"INFP,ISFJ",Investigative,"Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$150,000+",Low
+Law,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISFP,ESTJ",Social,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$150,000+",Medium
+Healthcare,Game Developer,Creates and develops video games.,"ENFJ,ENTJ",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Agriculture,Meteorologist,Studies weather patterns and predicts forecasts.,"ESFP,INFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Low
+Technology,Architect,Designs buildings and urban structures.,"ENFP,INFP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Construction,Astronomer,Studies celestial objects and the universe.,"ENFP,ESFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Low
+Construction,Investment Banker,Provides financial advice and investment strategies.,"INFP,ENFP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Medium
+Technology,Marine Biologist,Studies ocean life and marine ecosystems.,"INFP,ESTJ",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Low
+Business,UX Researcher,Improves user experience based on data insights.,"ENFJ,ESTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",High
+Construction,Robotics Engineer,Designs and builds robotic systems.,"INFJ,INFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Low
+Media,Sports Psychologist,Enhances athletes' mental performance.,"INFJ,ENFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Low
+Transportation,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INTP,INFJ",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Low
+Security,Biotech Researcher,Develops biotechnological solutions for medicine.,"ISFP,ISTJ",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Medium
+Transportation,Music Composer,Creates and arranges musical pieces.,"INTJ,ESFJ",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Environment,Space Scientist,Studies outer space and planetary science.,"ISFP,INTP",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Medium
+Business,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISTJ,ISFP",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Low
+Politics,Epidemiologist,Studies disease outbreaks and health trends.,"ISFP,ENFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Education,Data Scientist,Analyzes complex data to provide insights.,"ENTJ,ESFP","Realistic, Investigative","Python, SQL, Machine Learning, Statistics",High School Diploma,"$30,000 - $50,000",Low
+Research,Machine Learning Engineer,Develops AI models for automated tasks.,"INFP,ENTJ",Artistic,"Deep Learning, TensorFlow, Python, AI Algorithms",Doctorate,"$30,000 - $50,000",Medium
+Telecommunications,Cybersecurity Analyst,Protects systems from cyber threats.,"ENTJ,ENFJ","Realistic, Investigative","Network Security, Ethical Hacking, Risk Management",Doctorate,"$70,000 - $100,000",High
+Arts,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESFJ,INFJ",Investigative,"Neurosurgery, Patient Care, Critical Thinking",High School Diploma,"$30,000 - $50,000",Low
+Business,Forensic Scientist,Analyzes evidence for criminal investigations.,"INTP,ESFJ",Artistic,"Criminal Investigation, DNA Analysis, Chemistry",Doctorate,"$30,000 - $50,000",Low
+Media,Game Developer,Creates and develops video games.,"ESTP,ESFJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Low
+Construction,Meteorologist,Studies weather patterns and predicts forecasts.,"ISTP,ESTJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Media,Architect,Designs buildings and urban structures.,"ISFP,ESFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Law,Astronomer,Studies celestial objects and the universe.,"ESFP,INTP",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Arts,Investment Banker,Provides financial advice and investment strategies.,"ENFP,ENFP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Medium
+Law,Marine Biologist,Studies ocean life and marine ecosystems.,"ENFJ,INFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",High
+Arts,UX Researcher,Improves user experience based on data insights.,"ESTP,ISFJ",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",High
+Environment,Robotics Engineer,Designs and builds robotic systems.,"ESTP,ENTP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Sports,Sports Psychologist,Enhances athletes' mental performance.,"ESTJ,ISFJ",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Low
+Aviation,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ENTJ,INTP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Medium
+Manufacturing,Biotech Researcher,Develops biotechnological solutions for medicine.,"ISTP,INTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Medium
+Healthcare,Music Composer,Creates and arranges musical pieces.,"INTP,ISTP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Social Work,Space Scientist,Studies outer space and planetary science.,"ESFJ,ENFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Social Work,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENFP,ESFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Transportation,Epidemiologist,Studies disease outbreaks and health trends.,"ESFP,INFP",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",High
+Security,Data Scientist,Analyzes complex data to provide insights.,"ESFJ,ESFP",Investigative,"Python, SQL, Machine Learning, Statistics",Associate Degree,"$50,000 - $70,000",Medium
+Arts,Machine Learning Engineer,Develops AI models for automated tasks.,"ISFP,INFJ",Realistic,"Deep Learning, TensorFlow, Python, AI Algorithms",Bachelor's Degree,"$30,000 - $50,000",Medium
+Finance,Cybersecurity Analyst,Protects systems from cyber threats.,"ISFJ,INTP",Investigative,"Network Security, Ethical Hacking, Risk Management",Doctorate,"$50,000 - $70,000",High
+Sports,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENTP,ESFP",Realistic,"Neurosurgery, Patient Care, Critical Thinking",Bachelor's Degree,"$30,000 - $50,000",Medium
+Education,Forensic Scientist,Analyzes evidence for criminal investigations.,"INFJ,ESTJ",Enterprising,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$70,000 - $100,000",Medium
+Manufacturing,Game Developer,Creates and develops video games.,"ENTP,ISFP",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Medium
+Engineering,Meteorologist,Studies weather patterns and predicts forecasts.,"ISTP,ISTJ",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Medium
+Environment,Architect,Designs buildings and urban structures.,"ESFP,ISFJ",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Low
+Security,Astronomer,Studies celestial objects and the universe.,"ENFP,ESTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Low
+Education,Investment Banker,Provides financial advice and investment strategies.,"ESFJ,INFJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Low
+Research,Marine Biologist,Studies ocean life and marine ecosystems.,"INTJ,ISTJ",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Social Work,UX Researcher,Improves user experience based on data insights.,"ESTP,ISTP",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Healthcare,Robotics Engineer,Designs and builds robotic systems.,"ISTP,ENFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Environment,Sports Psychologist,Enhances athletes' mental performance.,"ENTJ,INFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Low
+Politics,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ISTJ,ENFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Medium
+Transportation,Biotech Researcher,Develops biotechnological solutions for medicine.,"INTP,ENFP",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Low
+Education,Music Composer,Creates and arranges musical pieces.,"INFP,INFJ",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Medium
+Security,Space Scientist,Studies outer space and planetary science.,"ENTJ,ENFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",Low
+Security,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISTP,INFP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Transportation,Epidemiologist,Studies disease outbreaks and health trends.,"INFP,INTP",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",High
+Military,Data Scientist,Analyzes complex data to provide insights.,"INTJ,ESTP","Conventional, Investigative","Python, SQL, Machine Learning, Statistics",Doctorate,"$70,000 - $100,000",Medium
+Law,Machine Learning Engineer,Develops AI models for automated tasks.,"ENFP,ESFP",Conventional,"Deep Learning, TensorFlow, Python, AI Algorithms",Doctorate,"$30,000 - $50,000",Medium
+Sports,Cybersecurity Analyst,Protects systems from cyber threats.,"INFP,ESTJ",Enterprising,"Network Security, Ethical Hacking, Risk Management",Master's Degree,"$100,000 - $150,000",High
+Transportation,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ISFP,ENTJ",Conventional,"Neurosurgery, Patient Care, Critical Thinking",High School Diploma,"$100,000 - $150,000",High
+Manufacturing,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISFJ,ENFJ",Realistic,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$30,000 - $50,000",Low
+Telecommunications,Game Developer,Creates and develops video games.,"INFP,ESFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",High
+Arts,Meteorologist,Studies weather patterns and predicts forecasts.,"ISFP,ENFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Military,Architect,Designs buildings and urban structures.,"ISFP,ISTP",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",High
+Social Work,Astronomer,Studies celestial objects and the universe.,"ENTP,ENTP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Research,Investment Banker,Provides financial advice and investment strategies.,"ENTJ,INFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Finance,Marine Biologist,Studies ocean life and marine ecosystems.,"ENTP,ENFJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Low
+Finance,UX Researcher,Improves user experience based on data insights.,"ISFP,ISFP",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Research,Robotics Engineer,Designs and builds robotic systems.,"ISFP,ESFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Medium
+Security,Sports Psychologist,Enhances athletes' mental performance.,"INFJ,ESFP",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Medium
+Agriculture,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INTP,INTP",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Low
+Science,Biotech Researcher,Develops biotechnological solutions for medicine.,"ISTP,INTP",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",High
+Business,Music Composer,Creates and arranges musical pieces.,"ENFJ,INFP",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Medium
+Entertainment,Space Scientist,Studies outer space and planetary science.,"ISTP,ISFP",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Research,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISFP,ESTJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",High
+Sports,Epidemiologist,Studies disease outbreaks and health trends.,"ISFP,ISFJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Healthcare,Data Scientist,Analyzes complex data to provide insights.,"ENTJ,ENTJ",Artistic,"Python, SQL, Machine Learning, Statistics",Associate Degree,"$100,000 - $150,000",Medium
+Law,Machine Learning Engineer,Develops AI models for automated tasks.,"ISTJ,ENTJ","Realistic, Investigative","Deep Learning, TensorFlow, Python, AI Algorithms",Associate Degree,"$50,000 - $70,000",High
+Healthcare,Cybersecurity Analyst,Protects systems from cyber threats.,"ISTP,INFP","Conventional, Investigative","Network Security, Ethical Hacking, Risk Management",High School Diploma,"$100,000 - $150,000",Low
+Telecommunications,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESTJ,ESFP",Conventional,"Neurosurgery, Patient Care, Critical Thinking",Bachelor's Degree,"$70,000 - $100,000",High
+Science,Forensic Scientist,Analyzes evidence for criminal investigations.,"INFP,ISFP",Artistic,"Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$30,000 - $50,000",Low
+Entertainment,Game Developer,Creates and develops video games.,"INTP,ENFP",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Medium
+Retail,Meteorologist,Studies weather patterns and predicts forecasts.,"INTP,ESTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Low
+Business,Architect,Designs buildings and urban structures.,"INTJ,ISTJ",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Science,Astronomer,Studies celestial objects and the universe.,"INTP,INTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",High
+Entertainment,Investment Banker,Provides financial advice and investment strategies.,"ENTP,ENTP",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Transportation,Marine Biologist,Studies ocean life and marine ecosystems.,"ENFP,ESTJ",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Business,UX Researcher,Improves user experience based on data insights.,"ISFP,ESFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Low
+Education,Robotics Engineer,Designs and builds robotic systems.,"ENTP,ENFP",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Medium
+Security,Sports Psychologist,Enhances athletes' mental performance.,"ESFP,ENTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Low
+Security,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ESFJ,ISTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Medium
+Manufacturing,Biotech Researcher,Develops biotechnological solutions for medicine.,"INFJ,INTP",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",High
+Construction,Music Composer,Creates and arranges musical pieces.,"ENTP,INTJ",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Transportation,Space Scientist,Studies outer space and planetary science.,"ISTJ,INFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Transportation,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISTJ,ISFP",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Low
+Entertainment,Epidemiologist,Studies disease outbreaks and health trends.,"ISFJ,ESFJ",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Low
+Construction,Data Scientist,Analyzes complex data to provide insights.,"ISFJ,ISFP",Artistic,"Python, SQL, Machine Learning, Statistics",Doctorate,"$100,000 - $150,000",Medium
+Sports,Machine Learning Engineer,Develops AI models for automated tasks.,"ENFJ,ISTJ","Conventional, Investigative","Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$30,000 - $50,000",High
+Technology,Cybersecurity Analyst,Protects systems from cyber threats.,"INFP,ESTJ","Realistic, Investigative","Network Security, Ethical Hacking, Risk Management",High School Diploma,"$70,000 - $100,000",Low
+Retail,Neurosurgeon,Performs surgeries related to brain and nervous system.,"INTP,ESFJ","Conventional, Investigative","Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$150,000+",Medium
+Politics,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISFJ,ISFJ",Investigative,"Criminal Investigation, DNA Analysis, Chemistry",Associate Degree,"$100,000 - $150,000",High
+Agriculture,Game Developer,Creates and develops video games.,"ENTP,ENFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",High
+Politics,Meteorologist,Studies weather patterns and predicts forecasts.,"ENFJ,INFP",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Construction,Architect,Designs buildings and urban structures.,"ISFP,ENFP",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Telecommunications,Astronomer,Studies celestial objects and the universe.,"ENTP,ISTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",High
+Business,Investment Banker,Provides financial advice and investment strategies.,"ENTP,ISFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Entertainment,Marine Biologist,Studies ocean life and marine ecosystems.,"ESTJ,ISTJ",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Medium
+Law,UX Researcher,Improves user experience based on data insights.,"ESTP,ISTP",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Education,Robotics Engineer,Designs and builds robotic systems.,"INFP,ISTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Medium
+Research,Sports Psychologist,Enhances athletes' mental performance.,"INTJ,INFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Medium
+Science,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INTP,ENFP",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",High
+Healthcare,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENTP,INFP",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Low
+Aviation,Music Composer,Creates and arranges musical pieces.,"ISFP,ENTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Medium
+Social Work,Space Scientist,Studies outer space and planetary science.,"ESTP,ENFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Medium
+Finance,Renewable Energy Engineer,Designs sustainable energy solutions.,"INFJ,ISTP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Medium
+Hospitality,Epidemiologist,Studies disease outbreaks and health trends.,"INTJ,ESFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Aviation,Data Scientist,Analyzes complex data to provide insights.,"INTP,ESTP","Realistic, Investigative","Python, SQL, Machine Learning, Statistics",Associate Degree,"$100,000 - $150,000",Low
+Research,Machine Learning Engineer,Develops AI models for automated tasks.,"ENTJ,ESTJ",Enterprising,"Deep Learning, TensorFlow, Python, AI Algorithms",Associate Degree,"$150,000+",High
+Business,Cybersecurity Analyst,Protects systems from cyber threats.,"ISTP,ISTP",Artistic,"Network Security, Ethical Hacking, Risk Management",Doctorate,"$150,000+",Low
+Research,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESTP,ISTJ",Artistic,"Neurosurgery, Patient Care, Critical Thinking",Bachelor's Degree,"$150,000+",Low
+Environment,Forensic Scientist,Analyzes evidence for criminal investigations.,"ENFJ,ESTP",Enterprising,"Criminal Investigation, DNA Analysis, Chemistry",Bachelor's Degree,"$150,000+",Low
+Sports,Game Developer,Creates and develops video games.,"ESFJ,INFP",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Medium
+Media,Meteorologist,Studies weather patterns and predicts forecasts.,"ESFP,ENTP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Medium
+Retail,Architect,Designs buildings and urban structures.,"INFJ,ESTJ",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Medium
+Education,Astronomer,Studies celestial objects and the universe.,"ISFP,ESFP",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Low
+Arts,Investment Banker,Provides financial advice and investment strategies.,"INFP,ESTJ",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Medium
+Agriculture,Marine Biologist,Studies ocean life and marine ecosystems.,"ISTP,ENTJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Medium
+Media,UX Researcher,Improves user experience based on data insights.,"ENFJ,ENTP",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",High
+Media,Robotics Engineer,Designs and builds robotic systems.,"ENFJ,ISFJ",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Low
+Transportation,Sports Psychologist,Enhances athletes' mental performance.,"ENFJ,ESFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",High
+Construction,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ISFJ,ENTJ",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Entertainment,Biotech Researcher,Develops biotechnological solutions for medicine.,"ESTJ,INTJ",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",High
+Retail,Music Composer,Creates and arranges musical pieces.,"ESFP,ESFP",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Low
+Security,Space Scientist,Studies outer space and planetary science.,"INTJ,ENFP",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Low
+Law,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENFP,ISTP",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Low
+Education,Epidemiologist,Studies disease outbreaks and health trends.,"ENTP,ESFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Medium
+Research,Data Scientist,Analyzes complex data to provide insights.,"ESTP,INFJ","Conventional, Investigative","Python, SQL, Machine Learning, Statistics",Master's Degree,"$150,000+",High
+Finance,Machine Learning Engineer,Develops AI models for automated tasks.,"ISTJ,ESTJ",Enterprising,"Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$50,000 - $70,000",Low
+Technology,Cybersecurity Analyst,Protects systems from cyber threats.,"ENFJ,INFP","Realistic, Investigative","Network Security, Ethical Hacking, Risk Management",High School Diploma,"$50,000 - $70,000",Medium
+Security,Neurosurgeon,Performs surgeries related to brain and nervous system.,"INFP,INTP",Social,"Neurosurgery, Patient Care, Critical Thinking",High School Diploma,"$100,000 - $150,000",Low
+Arts,Forensic Scientist,Analyzes evidence for criminal investigations.,"ESFJ,INFP",Realistic,"Criminal Investigation, DNA Analysis, Chemistry",Bachelor's Degree,"$150,000+",High
+Sports,Game Developer,Creates and develops video games.,"ENFP,INTJ",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",High
+Military,Meteorologist,Studies weather patterns and predicts forecasts.,"ENFP,ESFP",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Medium
+Hospitality,Architect,Designs buildings and urban structures.,"ISFP,ISTP",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Low
+Finance,Astronomer,Studies celestial objects and the universe.,"ISFJ,ENTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Low
+Engineering,Investment Banker,Provides financial advice and investment strategies.,"ENFP,ESTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",High
+Law,Marine Biologist,Studies ocean life and marine ecosystems.,"INTP,INTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Low
+Agriculture,UX Researcher,Improves user experience based on data insights.,"ENTP,ISFP",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Sports,Robotics Engineer,Designs and builds robotic systems.,"ESFJ,ESTP",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Low
+Environment,Sports Psychologist,Enhances athletes' mental performance.,"INFJ,ENFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",High
+Hospitality,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ISTJ,ENFJ",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",High
+Politics,Biotech Researcher,Develops biotechnological solutions for medicine.,"ESFP,ISFP",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Arts,Music Composer,Creates and arranges musical pieces.,"INFJ,ENFP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",High
+Law,Space Scientist,Studies outer space and planetary science.,"ISTJ,INFP",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Agriculture,Renewable Energy Engineer,Designs sustainable energy solutions.,"INTJ,ENTJ",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Medium
+Environment,Epidemiologist,Studies disease outbreaks and health trends.,"ISTP,INFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Medium
+Military,Data Scientist,Analyzes complex data to provide insights.,"INFP,ISFJ",Artistic,"Python, SQL, Machine Learning, Statistics",High School Diploma,"$70,000 - $100,000",High
+Retail,Machine Learning Engineer,Develops AI models for automated tasks.,"ENFJ,INFJ",Investigative,"Deep Learning, TensorFlow, Python, AI Algorithms",High School Diploma,"$30,000 - $50,000",High
+Social Work,Cybersecurity Analyst,Protects systems from cyber threats.,"ESFJ,ESFJ",Investigative,"Network Security, Ethical Hacking, Risk Management",Associate Degree,"$150,000+",Low
+Engineering,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENFP,INFP",Conventional,"Neurosurgery, Patient Care, Critical Thinking",High School Diploma,"$150,000+",High
+Research,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISFP,ESFP","Conventional, Investigative","Criminal Investigation, DNA Analysis, Chemistry",Master's Degree,"$30,000 - $50,000",High
+Retail,Game Developer,Creates and develops video games.,"INFP,ISTJ",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",High
+Research,Meteorologist,Studies weather patterns and predicts forecasts.,"ESTJ,ESTJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Finance,Architect,Designs buildings and urban structures.,"INFP,ENTJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Healthcare,Astronomer,Studies celestial objects and the universe.,"ISTP,ESFP",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Telecommunications,Investment Banker,Provides financial advice and investment strategies.,"ENTJ,INTP",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",High
+Research,Marine Biologist,Studies ocean life and marine ecosystems.,"INFP,ISTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Low
+Security,UX Researcher,Improves user experience based on data insights.,"ISFJ,ESTP",Enterprising,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Security,Robotics Engineer,Designs and builds robotic systems.,"ENTJ,ENFJ",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Medium
+Engineering,Sports Psychologist,Enhances athletes' mental performance.,"ISTJ,ESTP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",High
+Aviation,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ENTP,ENTJ",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Medium
+Manufacturing,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENTP,ESFP",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Engineering,Music Composer,Creates and arranges musical pieces.,"INFP,ESFJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Arts,Space Scientist,Studies outer space and planetary science.,"INTP,ISTP",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",High
+Retail,Renewable Energy Engineer,Designs sustainable energy solutions.,"ESFP,ISFJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Security,Epidemiologist,Studies disease outbreaks and health trends.,"ISTP,ESFP",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Medium
+Technology,Data Scientist,Analyzes complex data to provide insights.,"ENFJ,INFP",Social,"Python, SQL, Machine Learning, Statistics",Bachelor's Degree,"$70,000 - $100,000",Medium
+Security,Machine Learning Engineer,Develops AI models for automated tasks.,"ISFJ,ENFP",Conventional,"Deep Learning, TensorFlow, Python, AI Algorithms",High School Diploma,"$150,000+",Low
+Retail,Cybersecurity Analyst,Protects systems from cyber threats.,"INFP,ESFJ",Enterprising,"Network Security, Ethical Hacking, Risk Management",Doctorate,"$50,000 - $70,000",Medium
+Media,Neurosurgeon,Performs surgeries related to brain and nervous system.,"INTP,INTP",Social,"Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$150,000+",Low
+Business,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISTJ,ESTJ",Realistic,"Criminal Investigation, DNA Analysis, Chemistry",Doctorate,"$50,000 - $70,000",Medium
+Telecommunications,Game Developer,Creates and develops video games.,"ISFJ,ISFP",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Low
+Retail,Meteorologist,Studies weather patterns and predicts forecasts.,"ENTP,ENFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Medium
+Transportation,Architect,Designs buildings and urban structures.,"ENTP,INTJ",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Medium
+Hospitality,Astronomer,Studies celestial objects and the universe.,"ISFP,ESTJ",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Medium
+Social Work,Investment Banker,Provides financial advice and investment strategies.,"ESTJ,INFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",High
+Research,Marine Biologist,Studies ocean life and marine ecosystems.,"ENTJ,ENFP",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Medium
+Telecommunications,UX Researcher,Improves user experience based on data insights.,"INFP,ENFP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Environment,Robotics Engineer,Designs and builds robotic systems.,"ENTP,ESFJ",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Low
+Agriculture,Sports Psychologist,Enhances athletes' mental performance.,"INTP,ISTP",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",High
+Hospitality,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ISTP,ENTJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Arts,Biotech Researcher,Develops biotechnological solutions for medicine.,"INTP,ESFP",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",High
+Arts,Music Composer,Creates and arranges musical pieces.,"ISTJ,ENTP",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Low
+Sports,Space Scientist,Studies outer space and planetary science.,"ESTP,ISTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",High
+Hospitality,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISFJ,ENFP",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Low
+Environment,Epidemiologist,Studies disease outbreaks and health trends.,"INTJ,ISFJ",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Media,Data Scientist,Analyzes complex data to provide insights.,"ENFP,ENFP",Enterprising,"Python, SQL, Machine Learning, Statistics",High School Diploma,"$150,000+",High
+Technology,Machine Learning Engineer,Develops AI models for automated tasks.,"ESFJ,ISFP",Realistic,"Deep Learning, TensorFlow, Python, AI Algorithms",Doctorate,"$70,000 - $100,000",High
+Construction,Cybersecurity Analyst,Protects systems from cyber threats.,"INFJ,INTJ",Realistic,"Network Security, Ethical Hacking, Risk Management",Associate Degree,"$100,000 - $150,000",Medium
+Entertainment,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESFJ,ESTP",Artistic,"Neurosurgery, Patient Care, Critical Thinking",Doctorate,"$70,000 - $100,000",Medium
+Transportation,Forensic Scientist,Analyzes evidence for criminal investigations.,"INTP,ENTJ",Enterprising,"Criminal Investigation, DNA Analysis, Chemistry",Master's Degree,"$70,000 - $100,000",Low
+Technology,Game Developer,Creates and develops video games.,"ISTP,ESTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Military,Meteorologist,Studies weather patterns and predicts forecasts.,"ESTJ,ESTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Low
+Military,Architect,Designs buildings and urban structures.,"ISFP,ISFJ",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Medium
+Finance,Astronomer,Studies celestial objects and the universe.,"INFP,INTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",High
+Security,Investment Banker,Provides financial advice and investment strategies.,"INTP,ENTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Sports,Marine Biologist,Studies ocean life and marine ecosystems.,"INFJ,ESTP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Entertainment,UX Researcher,Improves user experience based on data insights.,"ISFP,ENTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",High
+Arts,Robotics Engineer,Designs and builds robotic systems.,"ESFP,ISTJ",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Low
+Sports,Sports Psychologist,Enhances athletes' mental performance.,"ISTP,ENFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Business,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INTP,INFJ",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Retail,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENFP,INTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Entertainment,Music Composer,Creates and arranges musical pieces.,"ISFJ,ENFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",High
+Education,Space Scientist,Studies outer space and planetary science.,"ISFJ,ENTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Low
+Manufacturing,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENTJ,ENTP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Low
+Politics,Epidemiologist,Studies disease outbreaks and health trends.,"INTJ,ENTJ",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Low
+Media,Data Scientist,Analyzes complex data to provide insights.,"ISFP,ESTP",Investigative,"Python, SQL, Machine Learning, Statistics",Doctorate,"$30,000 - $50,000",Low
+Engineering,Machine Learning Engineer,Develops AI models for automated tasks.,"ISFJ,INFP",Artistic,"Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$30,000 - $50,000",High
+Transportation,Cybersecurity Analyst,Protects systems from cyber threats.,"ISFJ,ESTJ","Conventional, Investigative","Network Security, Ethical Hacking, Risk Management",Doctorate,"$70,000 - $100,000",Low
+Media,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ISFP,ENFP",Social,"Neurosurgery, Patient Care, Critical Thinking",Master's Degree,"$70,000 - $100,000",Medium
+Military,Forensic Scientist,Analyzes evidence for criminal investigations.,"INFJ,ENTP","Realistic, Investigative","Criminal Investigation, DNA Analysis, Chemistry",Associate Degree,"$30,000 - $50,000",Medium
+Business,Game Developer,Creates and develops video games.,"ISTP,ENTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Sports,Meteorologist,Studies weather patterns and predicts forecasts.,"ESFP,INFP",Artistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Medium
+Aviation,Architect,Designs buildings and urban structures.,"ESTJ,ENTJ",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",High
+Science,Astronomer,Studies celestial objects and the universe.,"ESTP,ESFJ",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Medium
+Construction,Investment Banker,Provides financial advice and investment strategies.,"INTP,INFJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Business,Marine Biologist,Studies ocean life and marine ecosystems.,"ISTP,ISTP",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Low
+Science,UX Researcher,Improves user experience based on data insights.,"INFP,ISFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",High
+Sports,Robotics Engineer,Designs and builds robotic systems.,"INTJ,INTJ",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",High
+Construction,Sports Psychologist,Enhances athletes' mental performance.,"INFP,INFJ",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",High
+Transportation,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ESFP,ISTP",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Low
+Military,Biotech Researcher,Develops biotechnological solutions for medicine.,"ISFJ,INTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Manufacturing,Music Composer,Creates and arranges musical pieces.,"ESTJ,ENFP",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Low
+Telecommunications,Space Scientist,Studies outer space and planetary science.,"INTP,ISFP",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Low
+Science,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENFJ,INTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Medium
+Hospitality,Epidemiologist,Studies disease outbreaks and health trends.,"INTP,ENFJ",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Low
+Engineering,Data Scientist,Analyzes complex data to provide insights.,"ISFP,ISFJ","Conventional, Investigative","Python, SQL, Machine Learning, Statistics",High School Diploma,"$100,000 - $150,000",Medium
+Retail,Machine Learning Engineer,Develops AI models for automated tasks.,"ISTP,ESTJ","Conventional, Investigative","Deep Learning, TensorFlow, Python, AI Algorithms",Master's Degree,"$50,000 - $70,000",High
+Aviation,Cybersecurity Analyst,Protects systems from cyber threats.,"ISTP,ESTP",Investigative,"Network Security, Ethical Hacking, Risk Management",Bachelor's Degree,"$30,000 - $50,000",Medium
+Healthcare,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESFJ,INFP",Enterprising,"Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$30,000 - $50,000",High
+Politics,Forensic Scientist,Analyzes evidence for criminal investigations.,"INFJ,INTJ",Investigative,"Criminal Investigation, DNA Analysis, Chemistry",Doctorate,"$100,000 - $150,000",Medium
+Research,Game Developer,Creates and develops video games.,"ENFJ,INFJ",Enterprising,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Manufacturing,Meteorologist,Studies weather patterns and predicts forecasts.,"ESTJ,ENTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Media,Architect,Designs buildings and urban structures.,"ESTP,ISFP",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Medium
+Media,Astronomer,Studies celestial objects and the universe.,"ISTJ,INTJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Low
+Sports,Investment Banker,Provides financial advice and investment strategies.,"ISTP,INTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Military,Marine Biologist,Studies ocean life and marine ecosystems.,"ENTJ,INFP",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Science,UX Researcher,Improves user experience based on data insights.,"ISTP,ENFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Low
+Law,Robotics Engineer,Designs and builds robotic systems.,"ISTP,ISTJ",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",High
+Technology,Sports Psychologist,Enhances athletes' mental performance.,"ENTP,ISTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",High
+Transportation,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INTJ,ENFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Aviation,Biotech Researcher,Develops biotechnological solutions for medicine.,"INFP,ESFJ",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",High
+Construction,Music Composer,Creates and arranges musical pieces.,"ENFP,ESTJ",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Medium
+Law,Space Scientist,Studies outer space and planetary science.,"INFP,ISTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Low
+Environment,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENTP,ENFP",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Low
+Entertainment,Epidemiologist,Studies disease outbreaks and health trends.,"INTP,ISFJ",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Arts,Data Scientist,Analyzes complex data to provide insights.,"ISFP,ENFJ",Conventional,"Python, SQL, Machine Learning, Statistics",Associate Degree,"$70,000 - $100,000",High
+Science,Machine Learning Engineer,Develops AI models for automated tasks.,"INTP,ESFJ","Realistic, Investigative","Deep Learning, TensorFlow, Python, AI Algorithms",Associate Degree,"$70,000 - $100,000",Medium
+Agriculture,Cybersecurity Analyst,Protects systems from cyber threats.,"ISFJ,INTJ","Realistic, Investigative","Network Security, Ethical Hacking, Risk Management",Doctorate,"$100,000 - $150,000",High
+Military,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESFP,ENFJ",Realistic,"Neurosurgery, Patient Care, Critical Thinking",High School Diploma,"$70,000 - $100,000",Low
+Sports,Forensic Scientist,Analyzes evidence for criminal investigations.,"ENFJ,ESFP",Realistic,"Criminal Investigation, DNA Analysis, Chemistry",Doctorate,"$30,000 - $50,000",Low
+Business,Game Developer,Creates and develops video games.,"ESTP,ISTJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Medium
+Technology,Meteorologist,Studies weather patterns and predicts forecasts.,"ENTP,ESFP",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Business,Architect,Designs buildings and urban structures.,"INFP,ENTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",High
+Finance,Astronomer,Studies celestial objects and the universe.,"ISTJ,ESFP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Telecommunications,Investment Banker,Provides financial advice and investment strategies.,"INFJ,ESFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",Medium
+Finance,Marine Biologist,Studies ocean life and marine ecosystems.,"ENFJ,ISTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Research,UX Researcher,Improves user experience based on data insights.,"ENTJ,ISTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Medium
+Law,Robotics Engineer,Designs and builds robotic systems.,"INFJ,INTJ",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Medium
+Hospitality,Sports Psychologist,Enhances athletes' mental performance.,"ESTJ,ESTJ",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",High
+Research,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ESTP,ESTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Education,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENTP,INTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",High
+Media,Music Composer,Creates and arranges musical pieces.,"ENFP,ESTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Media,Space Scientist,Studies outer space and planetary science.,"ESTP,INFP",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Low
+Entertainment,Renewable Energy Engineer,Designs sustainable energy solutions.,"INTJ,INFP",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Low
+Research,Epidemiologist,Studies disease outbreaks and health trends.,"ISFJ,ENFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Low
+Engineering,Data Scientist,Analyzes complex data to provide insights.,"ISTJ,ISTJ",Realistic,"Python, SQL, Machine Learning, Statistics",Bachelor's Degree,"$150,000+",High
+Transportation,Machine Learning Engineer,Develops AI models for automated tasks.,"ENTP,ISFP",Conventional,"Deep Learning, TensorFlow, Python, AI Algorithms",Bachelor's Degree,"$30,000 - $50,000",Medium
+Business,Cybersecurity Analyst,Protects systems from cyber threats.,"ISTP,ESTJ",Investigative,"Network Security, Ethical Hacking, Risk Management",Associate Degree,"$100,000 - $150,000",High
+Aviation,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ISFP,ENTJ","Realistic, Investigative","Neurosurgery, Patient Care, Critical Thinking",Master's Degree,"$100,000 - $150,000",Medium
+Education,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISFP,ENTJ",Enterprising,"Criminal Investigation, DNA Analysis, Chemistry",Associate Degree,"$150,000+",Low
+Technology,Game Developer,Creates and develops video games.,"ESTJ,INTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Low
+Media,Meteorologist,Studies weather patterns and predicts forecasts.,"ENTJ,INFJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Science,Architect,Designs buildings and urban structures.,"ENTP,ISTP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",High
+Business,Astronomer,Studies celestial objects and the universe.,"ESTJ,ESTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Low
+Transportation,Investment Banker,Provides financial advice and investment strategies.,"ESTP,ESFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Low
+Science,Marine Biologist,Studies ocean life and marine ecosystems.,"ISFP,ISTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",Medium
+Sports,UX Researcher,Improves user experience based on data insights.,"INFP,ESFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",High
+Politics,Robotics Engineer,Designs and builds robotic systems.,"ISFJ,ESTJ",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Technology,Sports Psychologist,Enhances athletes' mental performance.,"ESTJ,ISTJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",High
+Technology,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INFJ,INTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Medium
+Finance,Biotech Researcher,Develops biotechnological solutions for medicine.,"ISTP,ESFP",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Low
+Sports,Music Composer,Creates and arranges musical pieces.,"ESFP,INFJ",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Technology,Space Scientist,Studies outer space and planetary science.,"INTJ,ESTP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Low
+Science,Renewable Energy Engineer,Designs sustainable energy solutions.,"INFJ,ISFJ",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Low
+Security,Epidemiologist,Studies disease outbreaks and health trends.,"ESFJ,INFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Business,Data Scientist,Analyzes complex data to provide insights.,"ISFP,ESFJ",Social,"Python, SQL, Machine Learning, Statistics",High School Diploma,"$150,000+",Medium
+Transportation,Machine Learning Engineer,Develops AI models for automated tasks.,"ESTP,ENTJ",Social,"Deep Learning, TensorFlow, Python, AI Algorithms",Doctorate,"$30,000 - $50,000",High
+Engineering,Cybersecurity Analyst,Protects systems from cyber threats.,"ISFP,ISTP",Enterprising,"Network Security, Ethical Hacking, Risk Management",High School Diploma,"$50,000 - $70,000",Low
+Education,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ISFP,ESTJ","Realistic, Investigative","Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$30,000 - $50,000",High
+Hospitality,Forensic Scientist,Analyzes evidence for criminal investigations.,"INTP,ISTP","Realistic, Investigative","Criminal Investigation, DNA Analysis, Chemistry",High School Diploma,"$150,000+",Medium
+Education,Game Developer,Creates and develops video games.,"ENTJ,INFJ",Enterprising,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Medium
+Environment,Meteorologist,Studies weather patterns and predicts forecasts.,"ESFJ,ISTP",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Low
+Aviation,Architect,Designs buildings and urban structures.,"ESFP,ESTP",Realistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Finance,Astronomer,Studies celestial objects and the universe.,"ISFP,ENTJ",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Environment,Investment Banker,Provides financial advice and investment strategies.,"ENFP,ISFJ",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",High
+Education,Marine Biologist,Studies ocean life and marine ecosystems.,"ESFJ,ENFP",Realistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Medium
+Engineering,UX Researcher,Improves user experience based on data insights.,"ENFP,ENTP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Low
+Telecommunications,Robotics Engineer,Designs and builds robotic systems.,"ENFJ,ISTP",Realistic,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Low
+Arts,Sports Psychologist,Enhances athletes' mental performance.,"ISFP,INTP",Realistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Transportation,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ENTP,ESTP",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",High
+Healthcare,Biotech Researcher,Develops biotechnological solutions for medicine.,"ESTJ,INTJ",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Medium
+Retail,Music Composer,Creates and arranges musical pieces.,"INFP,ESTP",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Low
+Agriculture,Space Scientist,Studies outer space and planetary science.,"ENFJ,ESFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",High
+Arts,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISTP,INFP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Medium
+Retail,Epidemiologist,Studies disease outbreaks and health trends.,"ENFJ,ENTP",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Technology,Data Scientist,Analyzes complex data to provide insights.,"ISTP,ENFJ","Conventional, Investigative","Python, SQL, Machine Learning, Statistics",Bachelor's Degree,"$70,000 - $100,000",High
+Environment,Machine Learning Engineer,Develops AI models for automated tasks.,"ESTJ,ENFJ",Enterprising,"Deep Learning, TensorFlow, Python, AI Algorithms",Bachelor's Degree,"$150,000+",Medium
+Science,Cybersecurity Analyst,Protects systems from cyber threats.,"ISTJ,ISFJ",Artistic,"Network Security, Ethical Hacking, Risk Management",Doctorate,"$150,000+",High
+Business,Neurosurgeon,Performs surgeries related to brain and nervous system.,"INFJ,ISTJ","Conventional, Investigative","Neurosurgery, Patient Care, Critical Thinking",Doctorate,"$50,000 - $70,000",Medium
+Manufacturing,Forensic Scientist,Analyzes evidence for criminal investigations.,"ISTP,ESFP",Investigative,"Criminal Investigation, DNA Analysis, Chemistry",Associate Degree,"$50,000 - $70,000",Low
+Law,Game Developer,Creates and develops video games.,"ENTJ,ISTP",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",High
+Hospitality,Meteorologist,Studies weather patterns and predicts forecasts.,"ENTJ,ENTP",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Manufacturing,Architect,Designs buildings and urban structures.,"ESFP,ISFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Technology,Astronomer,Studies celestial objects and the universe.,"ISTJ,ENFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",High
+Politics,Investment Banker,Provides financial advice and investment strategies.,"INFP,ISFJ",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Low
+Engineering,Marine Biologist,Studies ocean life and marine ecosystems.,"ESTJ,ISFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",Low
+Hospitality,UX Researcher,Improves user experience based on data insights.,"ENFJ,ENTJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$50,000 - $70,000",Low
+Sports,Robotics Engineer,Designs and builds robotic systems.,"ISTJ,ENFJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Low
+Technology,Sports Psychologist,Enhances athletes' mental performance.,"ESTJ,INFP",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",High
+Engineering,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INFP,ENTJ",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Medium
+Engineering,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENFP,ESTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Medium
+Construction,Music Composer,Creates and arranges musical pieces.,"ISFP,ESFP",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",High
+Finance,Space Scientist,Studies outer space and planetary science.,"ESTP,ENFJ",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Medium
+Politics,Renewable Energy Engineer,Designs sustainable energy solutions.,"ENTP,ISFJ",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",Low
+Education,Epidemiologist,Studies disease outbreaks and health trends.,"ISTP,ENTJ",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Hospitality,Data Scientist,Analyzes complex data to provide insights.,"ISFP,ENTJ",Artistic,"Python, SQL, Machine Learning, Statistics",Master's Degree,"$150,000+",High
+Environment,Machine Learning Engineer,Develops AI models for automated tasks.,"INFP,ISTP","Conventional, Investigative","Deep Learning, TensorFlow, Python, AI Algorithms",Doctorate,"$30,000 - $50,000",High
+Retail,Cybersecurity Analyst,Protects systems from cyber threats.,"ENTP,ENFP",Realistic,"Network Security, Ethical Hacking, Risk Management",Bachelor's Degree,"$100,000 - $150,000",Low
+Finance,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ESFP,ENFJ",Artistic,"Neurosurgery, Patient Care, Critical Thinking",Doctorate,"$70,000 - $100,000",High
+Education,Forensic Scientist,Analyzes evidence for criminal investigations.,"INTJ,ENTJ",Realistic,"Criminal Investigation, DNA Analysis, Chemistry",Master's Degree,"$50,000 - $70,000",High
+Aviation,Game Developer,Creates and develops video games.,"ENFJ,ISTJ",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",Medium
+Arts,Meteorologist,Studies weather patterns and predicts forecasts.,"ENFJ,INTJ",Enterprising,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Low
+Aviation,Architect,Designs buildings and urban structures.,"INTJ,ENTJ",Artistic,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",High
+Manufacturing,Astronomer,Studies celestial objects and the universe.,"INFJ,ENTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Low
+Science,Investment Banker,Provides financial advice and investment strategies.,"ISFP,ESFP",Enterprising,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Medium
+Social Work,Marine Biologist,Studies ocean life and marine ecosystems.,"ENFP,ESFP",Enterprising,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",High
+Environment,UX Researcher,Improves user experience based on data insights.,"ESTP,ENTP","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Low
+Law,Robotics Engineer,Designs and builds robotic systems.,"INFJ,ISFJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$30,000 - $50,000",Low
+Finance,Sports Psychologist,Enhances athletes' mental performance.,"ENTP,ENFJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Medium
+Entertainment,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ESTJ,ISFJ",Artistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Low
+Technology,Biotech Researcher,Develops biotechnological solutions for medicine.,"INFP,ESFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Low
+Transportation,Music Composer,Creates and arranges musical pieces.,"ENFP,ISTJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",High
+Finance,Space Scientist,Studies outer space and planetary science.,"ENFJ,ESTJ",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$70,000 - $100,000",High
+Transportation,Renewable Energy Engineer,Designs sustainable energy solutions.,"INFP,INTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",High
+Military,Epidemiologist,Studies disease outbreaks and health trends.,"ENTP,ESFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Medium
+Hospitality,Data Scientist,Analyzes complex data to provide insights.,"ESFJ,ISTP","Conventional, Investigative","Python, SQL, Machine Learning, Statistics",Master's Degree,"$150,000+",Low
+Research,Machine Learning Engineer,Develops AI models for automated tasks.,"INFJ,ISFP","Realistic, Investigative","Deep Learning, TensorFlow, Python, AI Algorithms",Bachelor's Degree,"$30,000 - $50,000",Low
+Telecommunications,Cybersecurity Analyst,Protects systems from cyber threats.,"ISTP,ESTP",Investigative,"Network Security, Ethical Hacking, Risk Management",Associate Degree,"$50,000 - $70,000",Medium
+Media,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ENTP,ISFP",Realistic,"Neurosurgery, Patient Care, Critical Thinking",High School Diploma,"$150,000+",Medium
+Media,Forensic Scientist,Analyzes evidence for criminal investigations.,"ESFJ,ENFP",Conventional,"Criminal Investigation, DNA Analysis, Chemistry",Master's Degree,"$30,000 - $50,000",Medium
+Transportation,Game Developer,Creates and develops video games.,"ENTP,ISTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$30,000 - $50,000",Medium
+Retail,Meteorologist,Studies weather patterns and predicts forecasts.,"INTJ,ENFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",High
+Education,Architect,Designs buildings and urban structures.,"INFP,INFJ",Social,"General Analytical, Communication, Problem-Solving",Doctorate,"$50,000 - $70,000",Medium
+Sports,Astronomer,Studies celestial objects and the universe.,"INFP,ENTJ",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",Low
+Law,Investment Banker,Provides financial advice and investment strategies.,"INTP,ENTP",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",High
+Entertainment,Marine Biologist,Studies ocean life and marine ecosystems.,"ESFJ,ESFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Construction,UX Researcher,Improves user experience based on data insights.,"ESTJ,INFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",High
+Research,Robotics Engineer,Designs and builds robotic systems.,"INFJ,ENFJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$150,000+",High
+Research,Sports Psychologist,Enhances athletes' mental performance.,"INFP,INFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$70,000 - $100,000",Low
+Hospitality,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"INFJ,ISTP",Investigative,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Medium
+Telecommunications,Biotech Researcher,Develops biotechnological solutions for medicine.,"ESFJ,ESFP",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Agriculture,Music Composer,Creates and arranges musical pieces.,"ISTP,ISFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",High School Diploma,"$30,000 - $50,000",Medium
+Construction,Space Scientist,Studies outer space and planetary science.,"ISTJ,ESTP",Enterprising,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Medium
+Construction,Renewable Energy Engineer,Designs sustainable energy solutions.,"INFP,ISFJ",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Medium
+Construction,Epidemiologist,Studies disease outbreaks and health trends.,"ISFP,ESFP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",High
+Arts,Data Scientist,Analyzes complex data to provide insights.,"INFJ,ESFP","Conventional, Investigative","Python, SQL, Machine Learning, Statistics",Associate Degree,"$70,000 - $100,000",Low
+Transportation,Machine Learning Engineer,Develops AI models for automated tasks.,"ESFP,INTP","Realistic, Investigative","Deep Learning, TensorFlow, Python, AI Algorithms",High School Diploma,"$30,000 - $50,000",High
+Finance,Cybersecurity Analyst,Protects systems from cyber threats.,"ISTP,ESTP",Social,"Network Security, Ethical Hacking, Risk Management",Bachelor's Degree,"$150,000+",Medium
+Education,Neurosurgeon,Performs surgeries related to brain and nervous system.,"INFJ,ENTP",Social,"Neurosurgery, Patient Care, Critical Thinking",Associate Degree,"$150,000+",Medium
+Aviation,Forensic Scientist,Analyzes evidence for criminal investigations.,"ENFJ,ENFJ",Social,"Criminal Investigation, DNA Analysis, Chemistry",Master's Degree,"$30,000 - $50,000",Medium
+Social Work,Game Developer,Creates and develops video games.,"INFP,ESFP",Conventional,"General Analytical, Communication, Problem-Solving",Doctorate,"$30,000 - $50,000",Medium
+Business,Meteorologist,Studies weather patterns and predicts forecasts.,"ESTJ,ISFJ",Enterprising,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Education,Architect,Designs buildings and urban structures.,"ISFJ,INTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Medium
+Healthcare,Astronomer,Studies celestial objects and the universe.,"ESFP,ENTJ",Conventional,"General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",Low
+Agriculture,Investment Banker,Provides financial advice and investment strategies.,"ESFJ,ESFJ",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Low
+Sports,Marine Biologist,Studies ocean life and marine ecosystems.,"ENTP,ESTJ",Investigative,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",High
+Research,UX Researcher,Improves user experience based on data insights.,"INTP,INFJ",Social,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",High
+Environment,Robotics Engineer,Designs and builds robotic systems.,"INFJ,ISTJ",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$30,000 - $50,000",Medium
+Technology,Sports Psychologist,Enhances athletes' mental performance.,"INFP,ISFJ",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",Low
+Healthcare,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ISTJ,ESTP",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",Medium
+Law,Biotech Researcher,Develops biotechnological solutions for medicine.,"ENFJ,ISTJ",Investigative,"General Analytical, Communication, Problem-Solving",High School Diploma,"$150,000+",Low
+Social Work,Music Composer,Creates and arranges musical pieces.,"INFP,ENTP",Enterprising,"General Analytical, Communication, Problem-Solving",Associate Degree,"$100,000 - $150,000",Medium
+Telecommunications,Space Scientist,Studies outer space and planetary science.,"ENTP,ISTJ",Artistic,"General Analytical, Communication, Problem-Solving",High School Diploma,"$100,000 - $150,000",Low
+Hospitality,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISFJ,INFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",High
+Sports,Epidemiologist,Studies disease outbreaks and health trends.,"INTJ,INFJ",Investigative,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$150,000+",High
+Military,Data Scientist,Analyzes complex data to provide insights.,"ENFJ,ESFJ",Artistic,"Python, SQL, Machine Learning, Statistics",Bachelor's Degree,"$70,000 - $100,000",High
+Environment,Machine Learning Engineer,Develops AI models for automated tasks.,"ESFP,ENFJ",Investigative,"Deep Learning, TensorFlow, Python, AI Algorithms",Associate Degree,"$70,000 - $100,000",High
+Telecommunications,Cybersecurity Analyst,Protects systems from cyber threats.,"INFJ,ISFP",Realistic,"Network Security, Ethical Hacking, Risk Management",Master's Degree,"$70,000 - $100,000",High
+Retail,Neurosurgeon,Performs surgeries related to brain and nervous system.,"ISFP,INTJ",Artistic,"Neurosurgery, Patient Care, Critical Thinking",High School Diploma,"$100,000 - $150,000",Medium
+Politics,Forensic Scientist,Analyzes evidence for criminal investigations.,"ESTJ,ISFP","Conventional, Investigative","Criminal Investigation, DNA Analysis, Chemistry",Bachelor's Degree,"$70,000 - $100,000",Low
+Business,Game Developer,Creates and develops video games.,"ISTP,ENTP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$150,000+",High
+Military,Meteorologist,Studies weather patterns and predicts forecasts.,"ENFP,INFP",Conventional,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Medium
+Politics,Architect,Designs buildings and urban structures.,"INFP,ESTP",Social,"General Analytical, Communication, Problem-Solving",Associate Degree,"$150,000+",Medium
+Hospitality,Astronomer,Studies celestial objects and the universe.,"ENTP,ESTJ",Social,"General Analytical, Communication, Problem-Solving",High School Diploma,"$50,000 - $70,000",High
+Research,Investment Banker,Provides financial advice and investment strategies.,"ISTP,INFJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$100,000 - $150,000",Low
+Research,Marine Biologist,Studies ocean life and marine ecosystems.,"ISTJ,INTP",Conventional,"General Analytical, Communication, Problem-Solving",Master's Degree,"$50,000 - $70,000",Medium
+Manufacturing,UX Researcher,Improves user experience based on data insights.,"INTJ,INFP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Agriculture,Robotics Engineer,Designs and builds robotic systems.,"ESFP,ISFJ",Realistic,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",Medium
+Science,Sports Psychologist,Enhances athletes' mental performance.,"ENTP,ENTJ",Conventional,"General Analytical, Communication, Problem-Solving",High School Diploma,"$70,000 - $100,000",Medium
+Social Work,AI Ethics Consultant,Ensures responsible and ethical AI usage.,"ISFJ,ESTP","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$70,000 - $100,000",Low
+Agriculture,Biotech Researcher,Develops biotechnological solutions for medicine.,"INFJ,ENFJ",Social,"General Analytical, Communication, Problem-Solving",Master's Degree,"$100,000 - $150,000",High
+Military,Music Composer,Creates and arranges musical pieces.,"ISTJ,ENTJ",Investigative,"General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Low
+Social Work,Space Scientist,Studies outer space and planetary science.,"INFJ,ENTJ","Conventional, Investigative","General Analytical, Communication, Problem-Solving",Associate Degree,"$50,000 - $70,000",High
+Entertainment,Renewable Energy Engineer,Designs sustainable energy solutions.,"ISFJ,ESFJ",Artistic,"General Analytical, Communication, Problem-Solving",Bachelor's Degree,"$70,000 - $100,000",High
+Healthcare,Epidemiologist,Studies disease outbreaks and health trends.,"ENFJ,ENTJ","Realistic, Investigative","General Analytical, Communication, Problem-Solving",Doctorate,"$100,000 - $150,000",Low
